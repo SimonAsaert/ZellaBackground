@@ -1,5 +1,6 @@
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.5
 plugins:
 - jekyll-remote-theme
 title: Zella Sel'Darro
 description: A document housing the backstory of Zella Sel'Darro.
+show_downloads: false
