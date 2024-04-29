@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.5
+remote_theme: ejjoo/jekyll-theme-monos
 plugins:
 - jekyll-remote-theme
 title: Zella Sel'Darro
