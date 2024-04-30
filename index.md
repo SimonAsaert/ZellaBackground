@@ -11,9 +11,10 @@
 
 ### Locations
 
-| Name | Link to summary |
-| ---- | --------------- |
-| Nevarro | [return](https://simonasaert.github.io/ZellaBackground/ "Returns here") |
+| Name | Planet | Type |
+| ---- | ------ | ---- |
+| [Pivrir's Respite](Locations#pivrirs-respite "Town") | Nevarro | Settlement |
+| [B&M's Workshop](Locations#bms-workshop "Workshop")  | Nevarro | Workshop   |
 
 ### Organization Links
 
