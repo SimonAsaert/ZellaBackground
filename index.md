@@ -6,7 +6,7 @@
 
 | Name | Link to summary |
 | ---- | --------------- |
-| Example | [return](https://simonasaert.github.io/ZellaBackground/ "Returns here") |
+| Random Person 1 | [return](People.md#random-person-1 "Random Person 1") |
 
 ### Locations
 
