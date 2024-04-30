@@ -10,9 +10,8 @@ This file is split up between the key systems that Zella has been in. Hopefully,
 > **Location**: ??? <br>
 > **Key Locations** <br>
 >
-> - [Pivrir's Respite](#Pivrir-respite)
-> - [B&M's Workshop](#b&ms-workshop)
->
+> - [Pivrir's Respite](#pivrirs-respite)
+> - [B&M's Workshop](#bms-workshop)
 
 ### Pivrir's Respite
 
@@ -36,7 +35,12 @@ The small settlement only has a few dozen structures, with housing, a cantina, s
 
 **Brief Description**
 
-This workshop stands as one of the structures with dedicated area for a ground-floor. Situated West of the hamlet
+This workshop stands as one of the structures with dedicated area for a ground-floor. Situated West of [Pivrir's Respite](#pivrirs-respite), it's one of the more recent builds of the settlement.
+
+The segment that reaches the ground and upwards is the workshop area, with enough mechanical tools situated about to cover most situations. Though all the tools are old style, or have signs of being broken, worn down, patched or even having parts swapped from everywhere to try and get them in working shape. The workshop itself is kept with some semblance of order. Work-tables are kept cleared even if they're dirty and chipped, unused tools are hung up to be easily accessible. A lot of the materials are kept wherever there's space, with an assortment of boxes, or shelves, or for larger materials just hung up in the ceiling or leaning against the walls.
+
+There's a door that leads to the residential part of the structure. While it's a cramped space, the rooms are covered with colour. Covered with tapestries, paintings, coloured pillows, art everywhere around the place. Featuring elements of life, wild joy, all the joyful emotions.
+
+The rooms are split up into a single bedroom, a kitchen-living area combo, a washroom and a small room that acts as office-space with documents housing the work done and plans for what work needs to be completed, as well as a studio for more art to be created.
 
 ---
-
