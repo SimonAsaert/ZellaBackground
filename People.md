@@ -2,8 +2,13 @@
 
 ## Quick Nav
 
-[Random Person 1](#random-person-1)
+| Name | Relationship |
+| ---- | --------------- |
+| [Mila Del'Sarro](#mila-delsarro) | Mother |
+| [Berhtram Del'Sarro](#berhtram-delsarro) | Father |
 
-## Random Person 1
+## Mila Del'Sarro
 
-Yes this is some content
+
+
+## Berhtram Del'Sarro

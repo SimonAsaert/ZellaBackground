@@ -4,9 +4,10 @@
 
 ### People
 
-| Name | Link to summary |
+| Name | Relationship |
 | ---- | --------------- |
-| Random Person 1 | [return](People.md#random-person-1 "Random Person 1") |
+| [Mila Del'Sarro](People.md#mila-delsarro) | Mother |
+| [Berhtram Del'Sarro](People.md#Berhtram-delsarro) | Father |
 
 ### Locations
 
@@ -21,6 +22,32 @@
 | N/A  | [return](https://simonasaert.github.io/ZellaBackground/ "Returns here") |
 
 ## Backstory
+
+### Childhood (0-8 yrs)
+
+
+
+### Caged and Traded (8-9)
+
+
+
+### Growth and Learning (9-16)
+
+
+
+### Expanding Trust (16-18)
+
+
+
+### Find your place (18-27)
+
+
+
+### Escape! (27)
+
+
+
+### Summary
 
 - Born and raised on Nevarro (family's escape from the over-enterprising zeal of the megacorps, and seeing destruction of their society from Death-Sticks)
 - Was pushed to learn the current trade of the family, repairing farm equipment from mechanical farm equipment, to menial droids, to whatever was needed
