@@ -26,13 +26,17 @@
 
 ### Childhood (0-8 yrs)
 
+Zella was born on the flats of Nevarro, in a small mechanics workshop. Here, in [Pivrir's Respite](Locations#pivrirs-respite), her parents [Mila Del'Sarro](People#mila-delsarro) and [Berhtram Del'Sarro](People#berhtram-delsarro) started to raise her. The term "it takes a village" rang literal here, as she was one of only very few children in the society she was brought up under the care of those around in the settlement. Learning, sharing experiences with those around.
 
+When she learnt to walk, she would be found in the workshop or around. Watching her father work, or her mother create, or talking with those who came in including the droids who came for repairs. Her father put an omnitool in her hand as soon as he could, getting her to learn some of his craft, getting her to learn how to build with her hands and the tools found around. Teaching her the ways with mechanical systems, with droids, with speeders, even later on bringing her to repairs he completed on the trader vessels that came in and out.
+
+Though as she reached 7, these outings came to a halt. She found her father was more exasperated with things going on even with mum keeping a strong face. But there was a clear change in the society as "mean men" started appearing more often in the settlement. These "mean men" would raise their voices, wouldn't smile unless they were in the company of others, taking joy in being cruel to those less able to resist around. She quickly learnt to make herself scarce and hide away from these men when they were around.
 
 ### Caged and Traded (8-9)
 
+Then for her, the world and life ended as she knew it. The day had gone like normal, though the "mean men" weren't around. She had been helping dad with work around the workshop with fixing up a pit-droid. As dinnertime came, the family came together, when dad seemed to notice something outside one of the windows. He went to investigate, and a few minutes later mum told Zella to go hide. She did immediately, rushing to one of the cupboards and locking up. Only a minute later, a sound of a gunshot, followed soon by screams of mum that were drowned out by the sounds around. There were cries around the settlement that she couldn't focus on, there was more sounds of gunshots around. Eventually, the cupboard she was in was thrown open, and she too was dragged out. She saw her home had been torn up, the workshop in the process of being looted, smoke rising across the town, and soon she was thrown into shackles and into a cage within one of the ships. She was with company of maybe 3 or 4 others of the town, but she didn't see her mother or father...
 
-
-### Growth and Learning (9-16)
+### Enslaved Learning (9-16)
 
 
 
@@ -40,7 +44,11 @@
 
 
 
-### Find your place (18-27)
+### Interstellar Development (18-24)
+
+
+
+### Change of Ownership (26)
 
 
 
