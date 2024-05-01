@@ -11,7 +11,7 @@
 
 > ## Summary
 >
-> **Nickname**: Peacock (or whatever vibrant bird exists in sw)<br>
+>> **Nickname**: Peacock (or whatever vibrant bird exists in sw)<br>
 > **Age**: 54 <br>
 > **Gender**: Female<br>
 > **Race**: Balosaur<br>
@@ -21,8 +21,8 @@
 >
 > ## Physical Attributes
 >
-> **Height**: 4 ft 9 <br>
->> **Weight**: Light<br>
+>> **Height**: 4 ft 9 <br>
+> **Weight**: Light<br>
 > **Build**: Lithe<br>
 > **Complexion**: Olive<br>
 > **Hair Colour**: Dyed Light-blue<br>
@@ -34,7 +34,7 @@
 >
 > ## Mental Attributes
 >
-> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
+>> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
 > **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
 
 ### History
@@ -65,7 +65,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 > ## Summary
 >
-> **Nickname**: -<br>
+>> **Nickname**: -<br>
 > **Age**: 56 <br>
 > **Gender**: Male<br>
 > **Race**: Balosaur<br>
@@ -75,8 +75,8 @@ As protection of the imperials fell away from the planet and pirates came in, th
 >
 > ## Physical Attributes
 >
-> **Height**: 5 ft 2 <br>
->> **Weight**: Light<br>
+>> **Height**: 5 ft 2 <br>
+> **Weight**: Light<br>
 > **Build**: Skinny<br>
 > **Complexion**: Pale<br>
 > **Hair Colour**: White<br>
@@ -88,7 +88,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 >
 > ## Mental Attributes
 >
-> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
+>> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
 > **Occuption**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
 > **Law**: Arrested distributing drugs (8 BBY)
 
