@@ -36,6 +36,8 @@ Though as she reached 7, these outings came to a halt. She found her father was 
 
 Then for her, the world and life ended as she knew it. The day had gone like normal, though the "mean men" weren't around. She had been helping dad with work around the workshop with fixing up a pit-droid. As dinnertime came, the family came together, when dad seemed to notice something outside one of the windows. He went to investigate, and a few minutes later mum told Zella to go hide. She did immediately, rushing to one of the cupboards and locking up. Only a minute later, a sound of a gunshot, followed soon by screams of mum that were drowned out by the sounds around. There were cries around the settlement that she couldn't focus on, there was more sounds of gunshots around. Eventually, the cupboard she was in was thrown open, and she too was dragged out. She saw her home had been torn up, the workshop in the process of being looted, smoke rising across the town, and soon she was thrown into shackles and into a cage within one of the ships. She was with company of maybe 3 or 4 others of the town, but she didn't see her mother or father...
 
+For the first week, she was stuck in the cage on the ship. The slavers flying around and remaining out of potential scanners. Making their way down to Hutt space. As they past the throes of battle, a lot of communication could be heard from the front before they finally landed on a new planet. The group enslaved were forced out and put into new squallored places to prepare for sale. Each person being sold individually, and split far apart. 
+
 ### Enslaved Learning (9-16)
 
 
