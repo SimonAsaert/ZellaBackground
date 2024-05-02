@@ -2,10 +2,12 @@
 
 ## Quick Nav
 
-| Name | Relationship |
-| ---- | --------------- |
-| [Mila Del'Sarro](#mila-delsarro) | Mother |
-| [Berhtram Del'Sarro](#berhtram-delsarro) | Father |
+| Name | Relationship | Location(s) |
+| ---- | ------------ | ----------- |
+| [Mila Del'Sarro](#mila-delsarro) | Mother | Nevarro |
+| [Berhtram Del'Sarro](#berhtram-delsarro) | Father | Nevarro |
+| Tutor 1 | Tutor | Quesh |
+| Tutor 2 | Tutor | Quesh |
 
 ## Mila Del'Sarro
 

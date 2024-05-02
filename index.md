@@ -40,11 +40,25 @@ For the first week, she was stuck in the cage on the ship. The slavers flying ar
 
 Eventually, her new masters picked her up, along with a few other new slaves of which she recognised no one. And she was brought to her new permanent home, a station in orbit of [Quesh](https://starwars.fandom.com/wiki/Quesh "Wookiepedia").
 
-### Enslaved Learning (9-16)
+### Chemical Hatred (9)
 
+Now began the hardest part of her life so far. In orbit of Quesh, the expectation of the new group was for them to be trained in chemical extraction. They were far from the only group, coming to face dozens if not hundreds of others going through the same process as them. The tools given were of terrible condition being incredibly cheap, stolen, broken, and usually of entirely different makes/models that were incompatible with each other. These tools would be "loaned" to the slave, with the idea that they would earn their pay by extracting chemicals on the planet's surface. This would go to "pay for the debt" that the slavers had acrewed buying them, but using the tools would slowly raise this debt too leading to individuals being stuck in this endless cycle of work.
 
+These tools were designed for larger adults, so when Zella was given them they gave no pity, instead telling her to "figure it out". Since she now was stuck with these tools, when she wasn't in the grueling process of training, she had a little time to tinker and adapt what she had. Making use of impromptu tools, over a few days she managed to lighten some of the tools, and fix and adapt a few others to work nicer together. It wasn't easy work, especially for her, but by the time she was done there had been some notice from other slaves. Soon, when there was time and the slavers weren't around, she was helping to try and fix the tools of others in her cell, befriending a few of those stuck with her. With some of the other slaves taking small pity on the young girl being stuck there with them.
 
-### Expanding Trust (16-18)
+### Uneasy Meetings (10)
+
+She never did go down to the planet surface as she was originally called to do. Her work was noticed as word of mouth spread the story of a small balosaur fixing up tools. It was one night when she was working on an extraction unit when there was a clang on the door to the cell and two larger slavers entered. They had looked around, saw Zella with a partially deconstructed extractor and wordlessly grabbed her and pulled her out of the cell. She had tried to struggle, but she was dragged in front of the owner of the station, dragged in front of **((Ben Help Me Names! Might be traded after this point so this would be a "lesser" member))**. He commented on her resourcefulness, he shared an appreciation of knowledge, he also shared how modifying the tools in her position wasn't allowed. Then he shared *"However, from the circumstances we stand in, I have a new proposition. You will work off your debts not on the planet surface, but up here. I'll task you to the workshop, you will learn from those there, and you will begin your duties there."*
+
+And that's what happened. She was thrown in a new series of cells with new individuals. She had to adapt to the dangerous, messy environment of the station workshop. She learnt quickly that injury is common here, from cuts and burns to limb loss and blindness. It was also deafeningly loud, being situated right by the main reactors of the station. She struggled to adapt, especially with her sensitive hearing. But she learnt under the informal tutelage of the kinder members <sup>\[[1](People "Tutor 1")\] \[[2](People "Tutor 2")\] </sup> in the workshop. Starting with easier tools and slowly working upwards.
+
+### Growing Knowledge (10-13)
+
+During these years, the people around changed plenty, but [tutor 1](People) and [tutor 2](People) stayed the same. Helping her improve her craft, and they took time to try and protect her from the more horrible aspects of the society there. She was kept from harsher punishment, with [tutor 1](People) taking most of the blame for mistakes Zella made. Keeping her from harm as she grew in this environment.
+
+She steadily progressed, from tools to droids, to more obscure parts. Learning from her tutors, soon trying herself to help those newer in the workshop of what to avoid, what to do. She did her best to try and learn from those who allowed her to watch them work to try and prove her place here. Though the "debt" she and others in the workshop owed would never end. They were purposefully kept lowed in this place.
+
+### Expanding Trust (13-16)
 
 
 
