@@ -58,11 +58,19 @@ During these years, the people around changed plenty, but [tutor 1](People) and 
 
 She steadily progressed, from tools to droids, to more obscure parts. Learning from her tutors, soon trying herself to help those newer in the workshop of what to avoid, what to do. She did her best to try and learn from those who allowed her to watch them work to try and prove her place here. Though the "debt" she and others in the workshop owed would never end. They were purposefully kept lowed in this place.
 
-### Expanding Trust (13-16)
+### Transfering (13-15)
 
 As time went on, Zella would grow frustrated. Each time she gained a rough mastery of a topic, she was thrown onto a new place. Never allowed to stay static with one piece of equipment, instead kept always struggling to learn this new thing, this new piece of equipment. But she would push and persevere. Eventually, with her bredth of knowledge, she was pressed into maintaining ships that would arrive in the station. Figuring out what ails the ships of slavers, Hutts, traders who arrived at the station. And eventually, she got the notice of Beldorion the Hutt.
 
-She was bought out from under **\<Insert other hutt here\>**, brought on to service one of his lighter craft with a new team, including several service droids. The tools and equipment given here were of much higher quality, making repairing a relative breeze. This impressed her handler, who would then position her in one of his stations off Balamak, "Gabboweth's Retreat".
+She was bought out from under **\<Insert other hutt here\>**, brought on to service one of his lighter craft with a new team, including several service droids. The tools and equipment given here were of much higher quality, making repairing a relative breeze. This impressed her handler, who would then position her in one of his stations off Balamak, [Gabboweth's Retreat](Locations#gabboweths-retreat).
+
+### Leading (16-18)
+
+Here, she proved herself once more with her ability with the technology. With the greater tools, she started to thrive in this environment and was soon promoted to one of the youngest team-leads. She was given responsibility of a team of droids and two humans. Her team tasked in maintaining the station, and more frequently were being called to patch up Hutt vessels that were in the fight. The goal not to fully repair them, but to bring them to a standard enough that they could retreat back to the repair docks deeper in Hutt Space. They were instructed to never directly talk with the crew, that would be sorted by the station owners and such. But it didn't stop them seeing the crew of these vessels, with Zella starting to dream of just walking on board one of the ships one day and being whisked away.
+
+Instead, she stayed and continued her time. Continued to work through her debts as instructed with the group she had. With them, she grew in confidence in her work, able to maintain more complicated systems than before, able to keep her droids not only maintained, but able to swap out the parts for them without too much hassle for the time and job needed. Though then the first mistake came. After one rush-job, the ship had left with one of the fuel accellerators loose. Meaning, as the ship tried to launch into hyperdrive, this part undid itself and caused a catastrophic failure.
+
+When word came down to her team, Zella was given the instruction to right the team by finding the one who caused this. When she tried to refuse, they turned the investigation on her. It took a few days of back and forth, reprimands and harsher service, but she finally relented and gave a name. She never saw one the human who's name she had given after that point.
 
 ### Interstellar Development (18-24)
 
