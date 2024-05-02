@@ -84,19 +84,29 @@ Her team and herself would be situated on the ship, doing work aboard the vessel
 
 This covert work was in place to give the Hutts visibility of the sector, giving them an advantage here that they didn't once have, albeit showing to them the sheer size of the force they were trying to fight here. With her plan and actions helping to keep some sort of hold in the sector, this was appreciated with most of her debt being wiped at once. But not all of it.
 
-Zella and her team would now be tasked to deploy similar measures over the border regions where possible. In places that would have a station that could receive such information under worry that transmitting down to the planet would be "too noisy" for the covert needs. While doing this, they would also be tasked to assist in repairs of vessels in the region, just as before bringing them to enough life that they could return to a dry-dock or within a towing station.
+Zella and her team would now be tasked to deploy similar measures over the border regions where possible. In places that would have a station that could receive such information under worry that transmitting down to the planet would be "too noisy" for the covert needs. While doing this, they would also be tasked to assist in repairs of vessels in the region, just as before bringing them to enough life that they could return to a dry-dock or within a towing station. Now, with the rough grace of her handler, she was allowed to start talking with the teams that they came in contact with. Albeit with said handler always hovering in the area to ensure everything was "above board". Not enough to gain any sort of relationship with them beyond their formal talks. But enough to start to have a tiny bit of visibility.
 
-### (20-26)
+### Trading and Building (20-26)
 
-
+With her being given some level of visibility, her team and herself would soon be given tasks a little wider around Hutt Space. Being made to repair larger stations, being told to improve more basic designs, being pressed into working for the Hutts and their many mercs directly. She never got fame from this, as any work she completed was done under the name of Beldorion the Hutt, but her team and herself would end up close as they worked together. With Zella leading technically, [person 2] leading the team, and the rest working on what was needed. Eventually, her team and herself would find themselves back to [Gabboweth's Retreat](Locations#gabboweths-retreat), tasked to work with those on board to complete repairs from a recent assault.
 
 ### Freedom? (26)
 
+The work she was doing was far from fast enough. Perhaps through sabatage, perhaps through luck, the station's sensors were offline when the Mando assault swept through. Herself and other engineers hiding and surrendering themselves when the opportunity arose, including Zella. She gave herself up willingly to the Mandalorians, and in turn was thrown into intensive interrogation. She gave up details on vessels, on locations, on herself. Perhaps through pride, perhaps through fear of retribution, she didn't give up the sensitive locations of her sensor stations. Instead, when the opportunity came, she had one of her droids cut the communication line before wiping any such instructions from themselves. Plus, the mandalorians were given plenty of usable information on the vessels they were facing, so they were happy with what was traded.
 
+Then, she was given a freedom she hadn't had since she was a child. Allowed to do as she wanted. It took a while, but she managed to have a message transmitted to her home, asking if her mum or dad were there. It was days before there was any reply, but it was a firm "There hasn't been someone of the Sel'Darro family here for the past 18 cycles". So, with what she felt was nothing to return to, she instead agreed with the Mandos to work on the station. To complete the repairs there and perhaps begin maintaining the station further as needed.
+
+It would only be a few months before something was suspicious. Those who remained on the station now liberated, they would begin to seemingly disappear. The Mandalorians didn't seem to pay much attention, they were busy strategising and trying to keep the station from falling to enemy hands. But there were rumours that those who were disappearing would meet new individuals. These individuals would talk, discuss something. And between a few hours to a day, that individual would disappear.
 
 ### Escape! (27)
 
+Then Zella met two strange individuals. They approached, offering her prospects aboard a new station. She talked with them, asking questions and only getting vague responses. Something about engineering work in the core sectors, about having potential for good pay, but nothing concrete. She knew she was being targetted, so in the first opportunity, she fled. Boarding an out-bound vessel and stowing herself away with them.
 
+When they were in hyperspace, she made the shocked crew aware of her presence. She would share how she needed to get away, before offering her services to the crew. It was during their debate when their pleasure-yacht would be forced out of hyperspace as the drive span itself down, and a curse would be heard from the pilot. She proved herself to the team, soon finding the fault with the engine (surge protection being too sensitive or some such) and after fiddling around, the vessel would fly as-expected. They would accept her on the spot.
+
+It was then that she would learn of their true intentions. The adolescent Hutt was attempting to circumvent the Twi'lek spice trade, to buy and sell spice himself without any middle-men. He was on his second journey as the first had been "such an incredible success, I had to pull a crew together to do this properly".
+
+Their destination was around the [Quelli sector](https://starwars.fandom.com/wiki/Quelli_sector "Wookiepedia"), and on arrival the ship was instantly pinged by an awaiting sting opperation. The pilot struggling to maneouver away, he would crash the ship on Dathomir under the belief that "No one would be crazy enough to follow us down here!"... Zella was the only survivor after having strapped herself to a structural part of the hull.
 
 ### Summary
 
