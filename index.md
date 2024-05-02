@@ -72,11 +72,25 @@ Instead, she stayed and continued her time. Continued to work through her debts 
 
 When word came down to her team, Zella was given the instruction to right the team by finding the one who caused this. When she tried to refuse, they turned the investigation on her. It took a few days of back and forth, reprimands and harsher service, but she finally relented and gave a name. She never saw one the human who's name she had given after that point.
 
-### Interstellar Development (18-24)
+Over the months to her 18th, she was pressed to give more names when even minor incidents arose. Each time, letting go of one of her team as they would usually be disappeared, or end up wiped and reformatted and ready for use. With these actions, a distrust grew within her team, a concern that the next slip-up would lead to them disappearing. While Zella kept the fact she was the one giving a name to herself, the others were still worried for their own safety... And for a while things did get worse and more mistakes were made, but soon these did slow as the team just focused on "get the job done".
+
+### Interstellar Development (18-20)
+
+During her latter years under ownership, she had developed enough in the station that she was giving recommendations of what could be improved. Most of the time, it would be miner alterations, a process change, better power delivery here for optimisation, toolage there. She was even reported to share her belief in improvements for some of the vessels that arrived. Taking into account the damage they received she'd suggest layout changes to improve their survivability. This clear growth in ambition brought the curiosity of her handlers, who reported upwards. And soon, she was brought before one a little under the Hutt. He shared his plans to improve communications across the sector, before pushing a map to Zella and requesting for suggestions. In this impromptu "interview", she asked a few questions of what's happening, where certain things are, even requesting some charts of existing relays before she gave her answer to the tired higher-up. Sharing the locations they should be, before giving a suggestion of how they should work with the fighting going on to give central command an extreme amount of visibility without being detected. She was dismissed quickly afterwards.
+
+It would be days before she heard back, how her team would be tasked off-station, and begin to bring some communication satellites online and to "do whatever it would take to ensure communication remains secure secure". Her team and herself were given 2 hours to prepare, bundling what little belongings they had left before they were placed aboard a ship and flew off.
+
+Her team and herself would be situated on the ship, doing work aboard the vessel and space-walks to try and situate the first of many satellites into place. This would would go on for days and it would only be when they were returning that Zella would realise this satellite was in one of the places she had suggested. Her team would complete half a dozen more of these jobs, setting up a string of new covert satellites in the Balamak sector. Each were tuned to transmit signals between themselves and [Gabboweth's Retreat](Locations#gabboweths-retreat). They would be receiving signals from the sector, automatically filtering/tagging them to the known factions in the sector before they would send their payload along. Only transmitting to Hutt vessels when absolutely.
+
+This covert work was in place to give the Hutts visibility of the sector, giving them an advantage here that they didn't once have, albeit showing to them the sheer size of the force they were trying to fight here. With her plan and actions helping to keep some sort of hold in the sector, this was appreciated with most of her debt being wiped at once. But not all of it.
+
+Zella and her team would now be tasked to deploy similar measures over the border regions where possible. In places that would have a station that could receive such information under worry that transmitting down to the planet would be "too noisy" for the covert needs. While doing this, they would also be tasked to assist in repairs of vessels in the region, just as before bringing them to enough life that they could return to a dry-dock or within a towing station.
+
+### (20-26)
 
 
 
-### Change of Ownership (26)
+### Freedom? (26)
 
 
 
