@@ -11,7 +11,7 @@
 
 ## Mila Del'Sarro
 
-> ## Summary
+> ## Summary<Mila>
 >
 >> **Nickname**: Peacock (or whatever vibrant bird exists in sw)<br>
 > **Age**: 54 <br>
@@ -21,7 +21,7 @@
 > **Residing Planet**: Nevarro<br>
 > **Current Wearabouts**: Unknown<br>
 >
-> ## Physical Attributes
+> ## Physical Attributes<Mila>
 >
 >> **Height**: 4 ft 9 <br>
 > **Weight**: Light<br>
@@ -34,12 +34,12 @@
 > **Other Physical Features**: Wears enough jewelery to be heard before seen, with rings, bangles, etc.<br>
 > **Clothing Style**: Colourful, more floppy/looser fitting, usually home-made
 >
-> ## Mental Attributes
+> ## Mental Attributes<Mila>
 >
 >> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
 > **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
 
-### History
+### History<Mila>
 
 #### 17 BBY
 
@@ -65,7 +65,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 ## Berhtram Del'Sarro
 
-> ## Summary
+> ## Summary<Berhtram>
 >
 >> **Nickname**: -<br>
 > **Age**: 56 <br>
@@ -75,7 +75,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Residing Planet**: Nevarro<br>
 > **Current wearabouts**: Deceased (Nevarro)<br>
 >
-> ## Physical Attributes
+> ## Physical Attributes<Berhtram>
 >
 >> **Height**: 5 ft 2 <br>
 > **Weight**: Light<br>
@@ -88,13 +88,13 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Other Physical Features**: Face pocked with small scars from childhood illness<br>
 > **Clothing Style**: Tight, protective (leather-varient), functional, dirtied, pockets
 >
-> ## Mental Attributes
+> ## Mental Attributes<Berhtram>
 >
 >> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
 > **Occuption**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
 > **Law**: Arrested distributing drugs (8 BBY)
 
-### History
+### History<Berhtram>
 
 #### 19-12 BBY
 

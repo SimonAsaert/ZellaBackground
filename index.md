@@ -60,7 +60,9 @@ She steadily progressed, from tools to droids, to more obscure parts. Learning f
 
 ### Expanding Trust (13-16)
 
+As time went on, Zella would grow frustrated. Each time she gained a rough mastery of a topic, she was thrown onto a new place. Never allowed to stay static with one piece of equipment, instead kept always struggling to learn this new thing, this new piece of equipment. But she would push and persevere. Eventually, with her bredth of knowledge, she was pressed into maintaining ships that would arrive in the station. Figuring out what ails the ships of slavers, Hutts, traders who arrived at the station. And eventually, she got the notice of Beldorion the Hutt.
 
+She was bought out from under **\<Insert other hutt here\>**, brought on to service one of his lighter craft with a new team, including several service droids. The tools and equipment given here were of much higher quality, making repairing a relative breeze. This impressed her handler, who would then position her in one of his stations off Balamak, "Gabboweth's Retreat".
 
 ### Interstellar Development (18-24)
 

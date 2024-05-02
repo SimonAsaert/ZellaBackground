@@ -15,7 +15,7 @@ This file is split up between the key systems that Zella has been in. Hopefully,
 
 ### Pivrir's Respite
 
-**Brief Description**
+#### Brief Description <Pivrir>
 
 A small colonial settlement settled far North East from [Nevarro City](https://starwars.fandom.com/wiki/Nevarro_City "Wookiepedia"). The settlement sits at point where two lava-rivers join together, winding along the Northern and Eastern parts of the settlement. With the South being blocked with large, black hills covered in loose rocks and boulders.
 
@@ -23,7 +23,7 @@ The small settlement only has a few dozen structures, with housing, a cantina, s
 
 <sub>*Architecture Inspiration: [1](https://cdn.thespaces.com/wp-content/uploads/2018/10/Paris-property-utopie-marc-held-gif-yvette.jpg), [2](http://news.bbc.co.uk/nol/shared/spl/hi/pop_ups/06/africa_enl_1146054429/img/1.jpg), [3](https://www.houspect.com.au/nt/wp-content/uploads/sites/5/2015/08/bigstock-Fishing-Village-With-Wooden-Ho-389032831.jpg)*</sub>
 
-#### Rough history
+#### Rough History <Pivrir>
 
 - Founded during Imperial control
 - A minor bastion away from the capital for quiet independence
@@ -33,7 +33,7 @@ The small settlement only has a few dozen structures, with housing, a cantina, s
 
 ### B&M's Workshop
 
-**Brief Description**
+#### Brief Description <BM>
 
 This workshop stands as one of the structures with dedicated area for a ground-floor. Situated West of [Pivrir's Respite](#pivrirs-respite), it's one of the more recent builds of the settlement.
 
@@ -44,3 +44,13 @@ There's a door that leads to the residential part of the structure. While it's a
 The rooms are split up into a single bedroom, a kitchen-living area combo, a washroom and a small room that acts as office-space with documents housing the work done and plans for what work needs to be completed, as well as a studio for more art to be created.
 
 ---
+
+### Gabboweth's Retreat
+
+#### Brief Description <Gabboweth>
+
+A multi-level pleasure station. 
+
+#### Rough History <Gabboweth>
+
+
