@@ -2,20 +2,22 @@
 
 This file is split up between the key systems that Zella has been in. Hopefully, this'll make sense at some point!
 
-## [Nevarro](https://starwars.fandom.com/wiki/Nevarro "Wookieepedia")
+## Key Locations
 
-> ### Summary
+- [Pivrir's Respite](#pivrirs-respite)
+- [B&M's Workshop](#bms-workshop)
+- [Gabboweth's Retreat](#gabboweths-retreat)
+
+## Pivrir's Respite
+
+> ### Summary <Pivrir>
 >
-> ---
-> **Location**: ??? <br>
-> **Key Locations** <br>
->
-> - [Pivrir's Respite](#pivrirs-respite)
-> - [B&M's Workshop](#bms-workshop)
+> **Type**: Hamlet<br>
+> **Location**: Navarro<br>
+> **Main Faction(s)**: Independent<br>
+> **Purpose**: Settlement, hideout<br>
 
-### Pivrir's Respite
-
-#### Brief Description <Pivrir>
+### Brief Description <Pivrir>
 
 A small colonial settlement settled far North East from [Nevarro City](https://starwars.fandom.com/wiki/Nevarro_City "Wookiepedia"). The settlement sits at point where two lava-rivers join together, winding along the Northern and Eastern parts of the settlement. With the South being blocked with large, black hills covered in loose rocks and boulders.
 
@@ -23,7 +25,7 @@ The small settlement only has a few dozen structures, with housing, a cantina, s
 
 <sub>*Architecture Inspiration: [1](https://cdn.thespaces.com/wp-content/uploads/2018/10/Paris-property-utopie-marc-held-gif-yvette.jpg), [2](http://news.bbc.co.uk/nol/shared/spl/hi/pop_ups/06/africa_enl_1146054429/img/1.jpg), [3](https://www.houspect.com.au/nt/wp-content/uploads/sites/5/2015/08/bigstock-Fishing-Village-With-Wooden-Ho-389032831.jpg)*</sub>
 
-#### Rough History <Pivrir>
+### Rough History <Pivrir>
 
 - Founded during Imperial control
 - A minor bastion away from the capital for quiet independence
@@ -31,9 +33,16 @@ The small settlement only has a few dozen structures, with housing, a cantina, s
 - Theft arose first, tributes and enforced 'trading' pushed, before slaving began
 - History since then is uncertain to Zella
 
-### B&M's Workshop
+## B&M's Workshop
 
-#### Brief Description <BM>
+> ### Summary <BM>
+>
+> **Type**: Workstation<br>
+> **Location**: Navarro<br>
+> **Main Faction(s)**: Independent<br>
+> **Purpose**: Repairs, refurbish and restoration of mechanics<br>
+
+### Brief Description <BM>
 
 This workshop stands as one of the structures with dedicated area for a ground-floor. Situated West of [Pivrir's Respite](#pivrirs-respite), it's one of the more recent builds of the settlement.
 
@@ -43,14 +52,23 @@ There's a door that leads to the residential part of the structure. While it's a
 
 The rooms are split up into a single bedroom, a kitchen-living area combo, a washroom and a small room that acts as office-space with documents housing the work done and plans for what work needs to be completed, as well as a studio for more art to be created.
 
----
+## Gabboweth's Retreat
 
-### Gabboweth's Retreat
+> ### Summary <Gabboweth>
+>
+> **Type**: Station<br>
+> **Location**: Balamak<br>
+> **Main Faction(s)**: Hutts<br>
+> **Purpose**: Recreation, front-line supply, repair<br>
 
-#### Brief Description <Gabboweth>
+### Brief Description <Gabboweth>
 
-A multi-level pleasure station. 
+A multi-level pleasure station turned supply depot for the Hutts. Gabboweth stood as a pleasure-resort within this region. A place that once stood for commerce, gambling, trading and enjoying oneself. The station is clad in gold, jewels, and other rich resources.
 
-#### Rough History <Gabboweth>
+Though the jewels and gold are dulled and unclean now, with a lot of the space within now taken over to house storage, crates, resources. There's triage centers setup where swimming pools once sat, there's temporary repair posts, the region of space outside and on the hangar docks usually has dozens of ships with various forms of damage upon their hull with crews attending to each vessel.
 
+There has been a communication station built across the bottom of the station too, allowing for FTL communication outside of the sector as well as receiving local signals as and when needed. Though the station itself is limited in defences, only with token defences as it would rely on the ships and crews docked for any defencive measures.
 
+When last seen by Zella, the main vessels situated around would have been Mandalorian, with a few of the other major factions. Though with the change in battle, things may have changed
+
+##
