@@ -4,10 +4,11 @@
 
 | Name | Relationship | Location(s) |
 | ---- | ------------ | ----------- |
-| [Mila Del'Sarro](#mila-delsarro) | Mother | Nevarro |
+| [Mila Del'Sarro](#mila-delsarro) | Mother | Nevarro, ??? |
 | [Berhtram Del'Sarro](#berhtram-delsarro) | Father | Nevarro |
 | [Vydgish Gozorc](#vydgish-gozorc) | Tutor | Quesh |
 | [Niruhk Raokt](#niruhk-raokt) | Tutor | Quesh |
+| [Chu Vitchess](#chu-vitchess) | Handler | Around |
 
 ## Mila Del'Sarro
 
@@ -225,6 +226,48 @@ He would be thrown into Quesh, joining the workforce as a repairer for the tools
 He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".
 
 He would still be there by the time Zella departed Quesh.
+
+## Chu Vitchess
+
+> ## Summary<Chu>
+>
+>> **Nickname**: <br>
+> **Age**: 34<br>
+> **Gender**: Female<br>
+> **Race**: Kel Dor<br>
+> **Home Planet**: Dorin<br>
+> **Residing Planet**: ???<br>
+> **Current Whereabouts**: ???<br>
+> **Relationship (Zella)**: Handler<br>
+>
+> ## Physical Attributes<Chu>
+>
+>> **Height**: 5 ft 6<br>
+> **Weight**: Light<br>
+> **Build**: Slender, tall<br>
+> **Complexion**: Orangy skin<br>
+> **Hair Colour**: -<br>
+> **Hair Style**: -<br>
+> **Eye Colour**: Brown<br>
+> **Facial Features**: Always has rebreather<br>
+> **Other Physical Features**: <br>
+> **Clothing Style**: Robes. Weapons always visible.<br>
+>
+> ## Mental Attributes<Chu>
+>
+>> **Personality**: "Brutal Honesty", to-the-point, brutal, keeps life and work separate<br>
+> **Occuption**: Handler<br>
+> **Law**: Murder across several systems. Been reported to use torture<br>
+
+### History<Chu>
+
+Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.
+
+For Zella, she found the Balosaur to have learned techniques beyond her original station. Clearly one who was willing to learn and service. Thus, Chu had Zella placed in the new team in [Gabboweth's Retreat](Locations#gabboweths-retreat) and had a close-eye kept on her. She would have Zella pushed towards work greater than her station, before the mistakes began. Chu was the one who demanded for the names, and she would deal with the perpetrators of such [shoddy work](index#leading-16-18 "backstory fragment"). As the repair team of Gabboweth's Retreat was under Chu's name, she demanded perfection and eventually saw perfection return to her team.
+
+Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.
+
+When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first mandalorian vessel was in the area.
 
 ---
 
