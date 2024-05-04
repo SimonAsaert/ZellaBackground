@@ -160,7 +160,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 >
 > ## Mental Attributes<Template>
 >
->> **Personality**: Accepted of his lot. Protective.<br>
+>> **Personality**: Accepted of his lot. Protective. Passive.<br>
 > **Occuption**: Slave mechanic<br>
 > **Law**: <br>
 
@@ -195,7 +195,7 @@ Eventually, Vydgish would see her go only to disappear once more as she was trad
 > **Current Whereabouts**: Quesh<br>
 > **Relationship (Zella)**: Tutor<br>
 >
-> ## Physical Attributes<Template>
+> ## Physical Attributes<Niruhk>
 >
 >> **Height**: 5 ft 6<br>
 > **Weight**: 220lbs<br>
@@ -208,13 +208,23 @@ Eventually, Vydgish would see her go only to disappear once more as she was trad
 > **Other Physical Features**: Twin-Horn stubs, snapped<br>
 > **Clothing Style**: Tattered shirt, worn blazer, ratty brown trousers<br>
 >
-> ## Mental Attributes<Template>
+> ## Mental Attributes<Niruhk>
 >
->> **Personality**: <br>
-> **Occuption**: <br>
+>> **Personality**: Hopeful, caring<br>
+> **Occuption**: Slave mechanic<br>
 > **Law**: <br>
 
-### History<Template>
+### History<Niruhk>
+
+Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.
+
+This agreement would last for a few years, but on his 20th year the vessel he's in would be boarded by pirates. The crew giving up Niruhk for their own lives, where he would be traded off quickly into slavery.
+
+He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incit the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.
+
+He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".
+
+He would still be there by the time Zella departed Quesh.
 
 ---
 
