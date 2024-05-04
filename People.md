@@ -6,8 +6,8 @@
 | ---- | ------------ | ----------- |
 | [Mila Del'Sarro](#mila-delsarro) | Mother | Nevarro |
 | [Berhtram Del'Sarro](#berhtram-delsarro) | Father | Nevarro |
-| Tutor 1 | Tutor | Quesh |
-| Tutor 2 | Tutor | Quesh |
+| [Vydgish Gozorc](#vydgish-gozorc) | Tutor | Quesh |
+| [Niruhk Raokt](#niruhk-raokt) | Tutor | Quesh |
 
 ## Mila Del'Sarro
 
