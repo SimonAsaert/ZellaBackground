@@ -70,5 +70,3 @@ Though the jewels and gold are dulled and unclean now, with a lot of the space w
 There has been a communication station built across the bottom of the station too, allowing for FTL communication outside of the sector as well as receiving local signals as and when needed. Though the station itself is limited in defences, only with token defences as it would rely on the ships and crews docked for any defencive measures.
 
 When last seen by Zella, the main vessels situated around would have been Mandalorian, with a few of the other major factions. Though with the change in battle, things may have changed
-
-##
