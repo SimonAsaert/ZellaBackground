@@ -33,8 +33,8 @@
 > **Hair Colour**: Dyed Light-blue<br>
 > **Hair Style**: Long hair, single braid running down the left, with various coloured pins, badges and buttons<br>
 > **Eye Colour**: Yellowed, though wears various contacts to change her iris<br>
-> **Facial Features**: Gold-coloured jewelery that runs along her antennapalps<br>
-> **Other Physical Features**: Wears enough jewelery to be heard before seen, with rings, bangles, etc.<br>
+> **Facial Features**: Gold-coloured jewellery that runs along her antennapalps<br>
+> **Other Physical Features**: Wears enough jewellery to be heard before seen, with rings, bangles, etc.<br>
 > **Clothing Style**: Colourful, more floppy/looser fitting, usually home-made
 >
 > ### Mental Attributes<Mila>
@@ -52,11 +52,11 @@ Born on Balosaur, her family had just enough to shield Mila from the horrors of 
 
 <H3>1 BBY-2 ABY</H3>
 
-When she entered into her teenage-young adulthood, she met Berhtram. Their opposite visions, personalities, truths brought them closer and soon a kindling relationship formed between them. On their wedding, their families managed to raise enough funds to pay for them to leave Balosaur and start life anew elsewhere.<br><br>
+When she entered into her teenage-young adulthood, she met <a href="https://simonasaert.github.io/ZellaBackground/People.html#berhtram-delsarro">Berhtram</a>. Their opposite visions, personalities, truths brought them closer and soon a kindling relationship formed between them. On their wedding, their families managed to raise enough funds to pay for them to leave Balosaur and start life anew elsewhere.<br><br>
 
 <H3>2-5 ABY</H3>
 
-The journey was far from glamarous, but they soon touched down on Nevarro. At first they tried to make aquaintance in the capital, living rough and working in the cantina or the mechanics wherever there was an opening for a Clerk. She learnt how to manage customers, finances, orders, general management.<br><br>
+The journey was far from glamorous, but they soon touched down on Nevarro. At first they tried to make acquaintance in the capital, living rough and working in the cantina or the mechanics wherever there was an opening for a Clerk. She learnt how to manage customers, finances, orders, general management.<br><br>
 
 <H3>5-17 ABY</H3>
 
@@ -108,7 +108,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 <H3>19-12 BBY</H3>
 
-Born on Balosaur, his family were in the throes of the planet's downfall. They had recently been fired from their positions in one of the droid factories due to its closure, leaving them having to panic to get something sorted together. Having to move to more squallored locations they tried to make a new living while raising young Berhtram.
+Born on Balosaur, his family were in the throes of the planet's downfall. They had recently been fired from their positions in one of the droid factories due to its closure, leaving them having to panic to get something sorted together. Having to move to more poverty-stricken locations they tried to make a new living while raising young Berhtram.
 
 <H3>12-9 BBY</H3>
 
@@ -124,11 +124,11 @@ He did try to follow as his parents and uncles recommended, but the finances in 
 
 <H3>1 BBY-2 ABY</H3>
 
-Having now tried to stay legitimate, he soon came across another Balosaur who was wildly different to himself. He found her endlessly interesting and beautiful as he fell in love with Mila. One thing leading to another, and they were married together where their families revealed they had raised enough for the two of them to escape Balosaur. They eagerly took the opportunity, leaving the poluted world of Balosaur to find themselves in the more acrid world of Nevarro.
+Having now tried to stay legitimate, he soon came across another Balosaur who was wildly different to himself. He found her endlessly interesting and beautiful as he fell in love with Mila. One thing leading to another, and they were married together where their families revealed they had raised enough for the two of them to escape Balosaur. They eagerly took the opportunity, leaving the polluted world of Balosaur to find themselves in the more acrid world of Nevarro.
 
 <H3>2-5 ABY</H3>
 
-When they entered Nevarro City, they found themselves unwelcomed. The people here keeping them at an arms length which Berhtram saw familiar to his time in Balosaur. He worked in the mechanics here, applying his trade where he could though the lack of trust of Berhtram meant he was always kept away from the more interesting (and valuable) work here. His hope was kept alight with his wife though, with this isolation from others forcing them to be closer to each other. And soon they heard of an opportunity to move to another settlement in the region
+When they entered Nevarro City, they found themselves unwelcome. The people here keeping them at an arms length which Berhtram saw familiar to his time in Balosaur. He worked in the mechanics here, applying his trade where he could though the lack of trust of Berhtram meant he was always kept away from the more interesting (and valuable) work here. His hope was kept alight with his wife though, with this isolation from others forcing them to be closer to each other. And soon they heard of an opportunity to move to another settlement in the region
 
 <H3>5-17 ABY</H3>
 
@@ -138,7 +138,7 @@ Zella was born on 8 ABY, 3 years into their move to <a href="https://simonasaert
 
 <H3>18 ABY</H3>
 
-Though when the time came for piracy, he didn't handle the period of time well. While he and his shop offered services free, when the pirates started demanding tributary he got defensive. While he shared his logical belief that taking resources away from them will mean they wouldn't be able to service the pirate's vessels, the pirates didn't have any of it and laid punishment on him. When the time of the slavers came, it was seen that instead of taking him, they proportedly executed him as he struggled on the spot.
+Though when the time came for piracy, he didn't handle the period of time well. While he and his shop offered services free, when the pirates started demanding tributary he got defensive. While he shared his logical belief that taking resources away from them will mean they wouldn't be able to service the pirate's vessels, the pirates didn't have any of it and laid punishment on him. When the time of the slavers came, it was seen that instead of taking him, they purportedly executed him as he struggled on the spot.
 
 </details>
 
@@ -180,9 +180,9 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 
 He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.
 
-At birth, his family were swept up into Hutt space and enslaved. Their life beforehand had been tough, being wracked with extreme povity, constant hunger and being swept up in fighting for the barest of supplies.
+At birth, his family were swept up into Hutt space and enslaved. Their life beforehand had been tough, being wracked with extreme poverty, constant hunger and being swept up in fighting for the barest of supplies.
 
-Under ownership, his family would be pressed into work for whomever had bid for him. Working grueling hours but getting fed and shelter for their work. A "better life" which they taught to their child. So Vydgish would grow believing that being enslaved by those of higher status and power will share their prosperity with the slaves.
+Under ownership, his family would be pressed into work for whomever had bid for him. Working gruelling hours but getting fed and shelter for their work. A "better life" which they taught to their child. So Vydgish would grow believing that being enslaved by those of higher status and power will share their prosperity with the slaves.
 
 He was allowed a basic education. Working bits and pieces from the moment he could. Growing up it wouldn't have been easy. With constant pain and suffering. But he pushed forward with anything he was given, with quiet acceptance of his roles. Eventually, time needed for technicians, he would take up the call in this role and began this long-term role.
 
@@ -236,7 +236,7 @@ Born in Devaronian society, he found the need to wander grow for him. He would q
 
 This agreement would last for a few years, but on his 20th year the vessel he's in would be boarded by pirates. The crew giving up Niruhk for their own lives, where he would be traded off quickly into slavery.
 
-He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incit the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.
+He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incite the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.
 
 He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".
 
@@ -286,7 +286,7 @@ For Zella, she found the Balosaur to have learned techniques beyond her original
 
 Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.
 
-When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first mandalorian vessel was in the area.
+When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first Mandalorian vessel was in the area.
 
 </details>
 
@@ -311,14 +311,14 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Complexion**: Pale brown<br>
 > **Hair Colour**: - <br>
 > **Hair Style**: Bald <br>
-> **Eye Colour**: Dark green with darker purple Sclera<br>
+> **Eye Colour**: Dark green with darker purple sclera<br>
 > **Facial Features**: <br>
 > **Other Physical Features**: <br>
-> **Clothing Style**: Fancy, with sequeins and such. Any weapons are always covert as to not mess with the outfit.<br>
+> **Clothing Style**: Fancy, with sequins and such. Any weapons are always covert as to not mess with the outfit.<br>
 >
 > ### Mental Attributes<Borlic>
 >
->> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandure, boastful, good liar<br>
+>> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandeur, boastful, good liar<br>
 > **Occuption**: Station boss<br>
 > **Law**: Slavery, work-place abuse, environmental contamination<br>
 
@@ -326,7 +326,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 
 <summary><H3>History</H3></summary>
 
-When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicaity" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
+When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicality" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
 
 In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.
 
@@ -334,11 +334,11 @@ Through back-deals, using what tenuous connections his family had, and the group
 
 Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.
 
-Zella was far from the first underaged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.
+Zella was far from the first under-aged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.
 
 When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.
 
-His curiosity would only be piqued when there was tale that a represenative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
+His curiosity would only be piqued when there was tale that a representative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
 
 </details>
 
