@@ -46,25 +46,25 @@
 
 <summary>History</summary>
 
-#### 17 BBY<Mila>
+17 BBY
 
 Born on Balosaur, her family had just enough to shield Mila from the horrors of the dwindling society. Shielding her from the poverty, drugs, the realities of a society who didn't have many prospects she was driven towards art and creativity. There was no formal training on the planet for such, but her family encouraged her to create from nothing.
 
-#### 1 BBY-2 ABY<Mila>
+1 BBY-2 ABY
 
 When she entered into her teenage-young adulthood, she met Berhtram. Their opposite visions, personalities, truths brought them closer and soon a kindling relationship formed between them. On their wedding, their families managed to raise enough funds to pay for them to leave Balosaur and start life anew elsewhere.
 
-#### 2-5 ABY<Mila>
+2-5 ABY
 
 The journey was far from glamarous, but they soon touched down on Nevarro. At first they tried to make aquaintance in the capital, living rough and working in the cantina or the mechanics wherever there was an opening for a Clerk. She learnt how to manage customers, finances, orders, general management.
 
-#### 5-17 ABY<Mila>
+5-17 ABY
 
 But when they found this society wasn't entirely accepting of them, with the darker corners of the society creeping up on them, they moved off to another settlement on the planet. Landing at [Pivrir's Respite](Locations#pivrirs-respite), they found a tiny hamlet welcoming them in. With the skills they had built up over the years, they soon were able to take over the existing mechanics, renaming it to [B&M's Workshop](Locations#bms-workshop).
 
 Here they settled down, having their child Zella within a year. Here too Mila returned to her arts when there was time, trading with the supply ships for any of their oddities and colourful bits and pieces. The pair grew a very minor but successful business with offering repairs to traders, maintaining the droids that manage the lava flows and such forth, and teaching Zella their craft.
 
-#### 18 ABY<Mila>
+18 ABY
 
 As protection of the imperials fell away from the planet and pirates came in, the pair did try to keep their household safe. Offering their services free of charge, though this was an unsustainable way to keep afloat. Then the day of pirate greed came through, Mila tried to keep her daughter safe by locking her in a cupboard, only to be dragged out herself by the slavers.
 
