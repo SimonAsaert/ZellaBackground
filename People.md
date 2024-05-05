@@ -180,9 +180,9 @@ He would slowly gain expertise in his roles, gathering up steady knowledge over 
 
 He would eventually find himself working alongside a literal child. One who had clearly plenty to fear and was struggling to remain bold. He took her under his wing, keeping her safe from those around while teaching her the ways in the workshop.
 
-During slave uprisings, he would spend time keeping Zella distracted, 'knowing' full-well the result of such would only cause pain as they would be beaten down. He did try to teach his thoughts to Zella, though she never seemed to either understand his point, or refuse to understand.
+During slave uprisings, he would spend time keeping Zella distracted, 'knowing' full-well the result of such would only cause pain as they would be beaten down. He did try to teach his thoughts to Zella, though with his teachings being contradicted by [Niruhk](#niruhk-raokt), he would struggle to get through to her. With the lessons she took being of having pride with ones work, and "small groups have the ability to change much in the universe, so long as they work together".
 
-Eventually, Vydgish would see her go only to disappear once more as she was traded out. So would continue his position in Quesh.
+Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So would continue his position in Quesh.
 
 ## Niruhk Raokt
 
@@ -291,10 +291,10 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Complexion**: Pale brown<br>
 > **Hair Colour**: - <br>
 > **Hair Style**: Bald <br>
-> **Eye Colour**: Dark<br>
+> **Eye Colour**: Dark green with darker purple Sclera<br>
 > **Facial Features**: <br>
 > **Other Physical Features**: <br>
-> **Clothing Style**: <br>
+> **Clothing Style**: Fancy, with sequeins and such. Any weapons are always covert as to not mess with the outfit.<br>
 >
 > ## Mental Attributes<Borlic>
 >
@@ -309,6 +309,8 @@ When Borlic speaks of his past, he speaks with clear pride. How he descends from
 In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.
 
 Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.
+
+Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.
 
 Zella was far from the first underaged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.
 
