@@ -13,7 +13,7 @@
 
 ## Mila Del'Sarro
 
-> ## Summary<Mila>
+> ### Summary<Mila>
 >
 >> **Nickname**: Peacock (or whatever vibrant bird exists in sw)<br>
 > **Age**: 54 <br>
@@ -24,7 +24,7 @@
 > **Current Whereabouts**: Unknown<br>
 > **Relationship (Zella)**: Mother<br>
 >
-> ## Physical Attributes<Mila>
+> ### Physical Attributes<Mila>
 >
 >> **Height**: 4 ft 9 <br>
 > **Weight**: Light<br>
@@ -37,7 +37,7 @@
 > **Other Physical Features**: Wears enough jewelery to be heard before seen, with rings, bangles, etc.<br>
 > **Clothing Style**: Colourful, more floppy/looser fitting, usually home-made
 >
-> ## Mental Attributes<Mila>
+> ### Mental Attributes<Mila>
 >
 >> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
 > **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
@@ -72,7 +72,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 ## Berhtram Del'Sarro
 
-> ## Summary<Berhtram>
+> ### Summary<Berhtram>
 >
 >> **Nickname**: -<br>
 > **Age**: 56 <br>
@@ -83,7 +83,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Current Whereabouts**: Deceased (Nevarro)<br>
 > **Relationship (Zella)**: Father<br>
 >
-> ## Physical Attributes<Berhtram>
+> ### Physical Attributes<Berhtram>
 >
 >> **Height**: 5 ft 2 <br>
 > **Weight**: Light<br>
@@ -96,7 +96,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Other Physical Features**: Face pocked with small scars from childhood illness<br>
 > **Clothing Style**: Tight, protective (leather-varient), functional, dirtied, pockets
 >
-> ## Mental Attributes<Berhtram>
+> ### Mental Attributes<Berhtram>
 >
 >> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
 > **Occuption**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
@@ -144,7 +144,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 
 ## Vydgish Gozorc
 
-> ## Summary<Vydgish>
+> ### Summary<Vydgish>
 >
 >> **Nickname**: <br>
 > **Age**: 67<br>
@@ -155,7 +155,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Current Whereabouts**: Quesh?<br>
 > **Relationship (Zella)**: Tutor<br>
 >
-> ## Physical Attributes<Vydgish>
+> ### Physical Attributes<Vydgish>
 >
 >> **Height**: 6 ft<br>
 > **Weight**: 180 lbs<br>
@@ -168,7 +168,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Other Physical Features**: Walks with a constant limp, from an old broken bone<br>
 > **Clothing Style**: Ratty leathers, belts, pouches<br>
 >
-> ## Mental Attributes<Vydgish>
+> ### Mental Attributes<Vydgish>
 >
 >> **Personality**: Accepted of his lot. Protective. Passive.<br>
 > **Occuption**: Slave mechanic<br>
@@ -196,7 +196,7 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 
 </details>
 
-## Niruhk Raokt
+### Niruhk Raokt
 
 > ## Summary<Niruhk>
 >
@@ -209,7 +209,7 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Current Whereabouts**: Quesh<br>
 > **Relationship (Zella)**: Tutor<br>
 >
-> ## Physical Attributes<Niruhk>
+> ### Physical Attributes<Niruhk>
 >
 >> **Height**: 5 ft 6<br>
 > **Weight**: 220lbs<br>
@@ -222,7 +222,7 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Other Physical Features**: Twin-Horn stubs, snapped<br>
 > **Clothing Style**: Tattered shirt, worn blazer, ratty brown trousers<br>
 >
-> ## Mental Attributes<Niruhk>
+> ### Mental Attributes<Niruhk>
 >
 >> **Personality**: Hopeful, caring<br>
 > **Occuption**: Slave mechanic<br>
@@ -246,7 +246,7 @@ He would still be there by the time Zella departed Quesh.
 
 ## Chu Vitchess
 
-> ## Summary<Chu>
+> ### Summary<Chu>
 >
 >> **Nickname**: <br>
 > **Age**: 34<br>
@@ -257,7 +257,7 @@ He would still be there by the time Zella departed Quesh.
 > **Current Whereabouts**: ???<br>
 > **Relationship (Zella)**: Handler<br>
 >
-> ## Physical Attributes<Chu>
+> ### Physical Attributes<Chu>
 >
 >> **Height**: 5 ft 6<br>
 > **Weight**: Light<br>
@@ -270,7 +270,7 @@ He would still be there by the time Zella departed Quesh.
 > **Other Physical Features**: <br>
 > **Clothing Style**: Robes. Weapons always visible.<br>
 >
-> ## Mental Attributes<Chu>
+> ### Mental Attributes<Chu>
 >
 >> **Personality**: "Brutal Honesty", to-the-point, brutal, keeps life and work separate<br>
 > **Occuption**: Handler<br>
@@ -292,7 +292,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 
 ## Borlic Snevzel
 
-> ## Summary<Borlic>
+> ### Summary<Borlic>
 >
 >> **Nickname**: <br>
 > **Age**: 42<br>
@@ -303,7 +303,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Current Whereabouts**: Quesh station<br>
 > **Relationship (Zella)**: Ex-owner<br>
 >
-> ## Physical Attributes<Borlic>
+> ### Physical Attributes<Borlic>
 >
 >> **Height**: 4 ft 7<br>
 > **Weight**: <br>
@@ -316,7 +316,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Other Physical Features**: <br>
 > **Clothing Style**: Fancy, with sequeins and such. Any weapons are always covert as to not mess with the outfit.<br>
 >
-> ## Mental Attributes<Borlic>
+> ### Mental Attributes<Borlic>
 >
 >> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandure, boastful, good liar<br>
 > **Occuption**: Station boss<br>
