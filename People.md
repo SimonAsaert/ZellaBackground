@@ -9,6 +9,7 @@
 | [Vydgish Gozorc](#vydgish-gozorc) | Tutor | Quesh |
 | [Niruhk Raokt](#niruhk-raokt) | Tutor | Quesh |
 | [Chu Vitchess](#chu-vitchess) | Handler | Around |
+| [Borlic Snevzel](#borlic-snevzel) | Minor-boss | Hutt-Space |
 
 ## Mila Del'Sarro
 
@@ -269,6 +270,52 @@ Chu would be the one who had Zella promoted to a team-lead position, as Chu's ow
 
 When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first mandalorian vessel was in the area.
 
+## Borlic Snevzel
+
+> ## Summary<Borlic>
+>
+>> **Nickname**: <br>
+> **Age**: 42<br>
+> **Gender**: Male<br>
+> **Race**: Candovantan<br>
+> **Home Planet**: ???<br>
+> **Residing Planet**: Quesh<br>
+> **Current Whereabouts**: Quesh station<br>
+> **Relationship (Zella)**: Ex-owner<br>
+>
+> ## Physical Attributes<Borlic>
+>
+>> **Height**: 4 ft 7<br>
+> **Weight**: <br>
+> **Build**: Heavy-set<br>
+> **Complexion**: Pale brown<br>
+> **Hair Colour**: - <br>
+> **Hair Style**: Bald <br>
+> **Eye Colour**: Dark<br>
+> **Facial Features**: <br>
+> **Other Physical Features**: <br>
+> **Clothing Style**: <br>
+>
+> ## Mental Attributes<Borlic>
+>
+>> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandure, boastful, good liar<br>
+> **Occuption**: Station boss<br>
+> **Law**: Slavery, work-place abuse, environmental contamination<br>
+
+### History<Borlic>
+
+When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicaity" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
+
+In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.
+
+Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.
+
+Zella was far from the first underaged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.
+
+When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.
+
+His curiosity would only be piqued when there was tale that a represenative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
+
 ---
 
 ## Minor Characters
@@ -276,6 +323,8 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 | Name | Location | Race | Relationship |
 | ---- | -------- | ---- | ------------ |
 | Weh  |  | - | - |
+
+<!---
 
 ## Template Person
 
@@ -310,3 +359,4 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Law**: <br>
 
 ### History<Template>
+--->
