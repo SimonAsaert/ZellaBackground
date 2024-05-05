@@ -44,7 +44,7 @@
 
 <details>
 
-<summary>History</summary>
+<summary><H3>History</H3></summary>
 
 <H3>17 BBY</H3>
 
@@ -104,7 +104,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 <details>
 
-<summary><H2>History</H2></summary>
+<summary><H3>History</H3></summary>
 
 <H3>19-12 BBY</H3>
 
@@ -176,7 +176,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 
 <details>
 
-<summary><H2>History</H2></summary>
+<summary><H3>History</H3></summary>
 
 He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.
 
@@ -230,7 +230,7 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 
 <details>
 
-<summary><H2>History</H2></summary>
+<summary><H3>History</H3></summary>
 
 Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.
 
@@ -278,7 +278,7 @@ He would still be there by the time Zella departed Quesh.
 
 <details>
 
-<summary><H2>History</H2></summary>
+<summary><H3>History</H3></summary>
 
 Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.
 
@@ -324,9 +324,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 
 <details>
 
-<summary><H2>History</H2></summary>
-
-</details>
+<summary><H3>History</H3></summary>
 
 When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicaity" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
 
