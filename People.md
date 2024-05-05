@@ -40,7 +40,7 @@
 > ### Mental Attributes<Mila>
 >
 >> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
-> **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
+> **Occupation**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
 
 <details>
 
@@ -99,7 +99,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > ### Mental Attributes<Berhtram>
 >
 >> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
-> **Occuption**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
+> **Occupation**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
 > **Law**: Arrested distributing drugs (8 BBY)
 
 <details>
@@ -108,37 +108,37 @@ As protection of the imperials fell away from the planet and pirates came in, th
 
 <H3>19-12 BBY</H3>
 
-Born on Balosaur, his family were in the throes of the planet's downfall. They had recently been fired from their positions in one of the droid factories due to its closure, leaving them having to panic to get something sorted together. Having to move to more poverty-stricken locations they tried to make a new living while raising young Berhtram.
+Born on Balosaur, his family were in the throes of the planet's downfall. They had recently been fired from their positions in one of the droid factories due to its closure, leaving them having to panic to get something sorted together. Having to move to more poverty-stricken locations they tried to make a new living while raising young Berhtram.<br><br>
 
 <H3>12-9 BBY</H3>
 
-With the worsening conditions of the planet and his family, his was caught in some of the new illnesses that had spread with the poor air quality. His family, unable to afford much, struggled with getting medication for him and he was left with scars from the illness that he had carried for two years. By the end, they had just enough to cure him, but it was a slow process and left Berhtram needing some kind of medication for many years ahead.
+With the worsening conditions of the planet and his family, his was caught in some of the new illnesses that had spread with the poor air quality. His family, unable to afford much, struggled with getting medication for him and he was left with scars from the illness that he had carried for two years. By the end, they had just enough to cure him, but it was a slow process and left Berhtram needing some kind of medication for many years ahead.<br><br>
 
 <H3>9-6 BBY</H3>
 
-As he grew up, his family did their best to teach the skills they had learnt. Luckily for them, Berhtram had a natural curiosity that aided with this as they tried to teach him skills as a technician. Though as he could walk and run, he was soon swept up with the drug world of Balosaur. He saw it as an opportunity to raise a little money for his family, and he felt he got good at this. Being able to make smaller change for his family before being caught and held in juvenile detention with the small ring that had formed around him. When he was released, his horrified family did their best to try and "right the ship", trying to get him to use his mechanics skills to perhaps aid those around.
+As he grew up, his family did their best to teach the skills they had learnt. Luckily for them, Berhtram had a natural curiosity that aided with this as they tried to teach him skills as a technician. Though as he could walk and run, he was soon swept up with the drug world of Balosaur. He saw it as an opportunity to raise a little money for his family, and he felt he got good at this. Being able to make smaller change for his family before being caught and held in juvenile detention with the small ring that had formed around him. When he was released, his horrified family did their best to try and "right the ship", trying to get him to use his mechanics skills to perhaps aid those around.<br><br>
 
 <H3>4-1 BBY</H3>
 
-He did try to follow as his parents and uncles recommended, but the finances in this were slim to none, especially compared to what he was doing running drugs. With Berhtram ending up slipping back into juvenile detention another two times before he finally was able to go fully clean.
+He did try to follow as his parents and uncles recommended, but the finances in this were slim to none, especially compared to what he was doing running drugs. With Berhtram ending up slipping back into juvenile detention another two times before he finally was able to go fully clean.<br><br>
 
 <H3>1 BBY-2 ABY</H3>
 
-Having now tried to stay legitimate, he soon came across another Balosaur who was wildly different to himself. He found her endlessly interesting and beautiful as he fell in love with Mila. One thing leading to another, and they were married together where their families revealed they had raised enough for the two of them to escape Balosaur. They eagerly took the opportunity, leaving the polluted world of Balosaur to find themselves in the more acrid world of Nevarro.
+Having now tried to stay legitimate, he soon came across another Balosaur who was wildly different to himself. He found her endlessly interesting and beautiful as he fell in love with Mila. One thing leading to another, and they were married together where their families revealed they had raised enough for the two of them to escape Balosaur. They eagerly took the opportunity, leaving the polluted world of Balosaur to find themselves in the more acrid world of Nevarro.<br><br>
 
 <H3>2-5 ABY</H3>
 
-When they entered Nevarro City, they found themselves unwelcome. The people here keeping them at an arms length which Berhtram saw familiar to his time in Balosaur. He worked in the mechanics here, applying his trade where he could though the lack of trust of Berhtram meant he was always kept away from the more interesting (and valuable) work here. His hope was kept alight with his wife though, with this isolation from others forcing them to be closer to each other. And soon they heard of an opportunity to move to another settlement in the region
+When they entered Nevarro City, they found themselves unwelcome. The people here keeping them at an arms length which Berhtram saw familiar to his time in Balosaur. He worked in the mechanics here, applying his trade where he could though the lack of trust of Berhtram meant he was always kept away from the more interesting (and valuable) work here. His hope was kept alight with his wife though, with this isolation from others forcing them to be closer to each other. And soon they heard of an opportunity to move to another settlement in the region<br><br>
 
 <H3>5-17 ABY</H3>
 
-They headed to <a href="https://simonasaert.github.io/ZellaBackground/Locations#pivrirs-respite">Pivrir's Respite</a>, and found a much smaller society here that they could settle in. The hamlet were happy to take on new, interesting people to their little society, welcoming them in, offering them places to stay, especially with the mechanic of the settlement coming to age. Berhtram shared he learnt a lot under the old mechanic, a lot more in standardisation of work, with more formal training in fixing and figuring things out.
+They headed to <a href="https://simonasaert.github.io/ZellaBackground/Locations#pivrirs-respite">Pivrir's Respite</a>, and found a much smaller society here that they could settle in. The hamlet were happy to take on new, interesting people to their little society, welcoming them in, offering them places to stay, especially with the mechanic of the settlement coming to age. Berhtram shared he learnt a lot under the old mechanic, a lot more in standardisation of work, with more formal training in fixing and figuring things out.<br><br>
 
-Zella was born on 8 ABY, 3 years into their move to <a href="https://simonasaert.github.io/ZellaBackground/Locations#pivrirs-respite">Pivrir's Respite</a>, and a year after they took over the mechanics shop full time. As his parents did with him, he did his best to try and teach his daughter the ways of mechanics and engineering. Encouraging her to try and fix small things, take apart broken objects, anything to coax this curiosity in her.
+Zella was born on 8 ABY, 3 years into their move to <a href="https://simonasaert.github.io/ZellaBackground/Locations#pivrirs-respite">Pivrir's Respite</a>, and a year after they took over the mechanics shop full time. As his parents did with him, he did his best to try and teach his daughter the ways of mechanics and engineering. Encouraging her to try and fix small things, take apart broken objects, anything to coax this curiosity in her.<br><br>
 
 <H3>18 ABY</H3>
 
-Though when the time came for piracy, he didn't handle the period of time well. While he and his shop offered services free, when the pirates started demanding tributary he got defensive. While he shared his logical belief that taking resources away from them will mean they wouldn't be able to service the pirate's vessels, the pirates didn't have any of it and laid punishment on him. When the time of the slavers came, it was seen that instead of taking him, they purportedly executed him as he struggled on the spot.
+Though when the time came for piracy, he didn't handle the period of time well. While he and his shop offered services free, when the pirates started demanding tributary he got defensive. While he shared his logical belief that taking resources away from them will mean they wouldn't be able to service the pirate's vessels, the pirates didn't have any of it and laid punishment on him. When the time of the slavers came, it was seen that instead of taking him, they purportedly executed him as he struggled on the spot.<br><br>
 
 </details>
 
@@ -171,26 +171,26 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > ### Mental Attributes<Vydgish>
 >
 >> **Personality**: Accepted of his lot. Protective. Passive.<br>
-> **Occuption**: Slave mechanic<br>
+> **Occupation**: Slave mechanic<br>
 > **Law**: <br>
 
 <details>
 
 <summary><H3>History</H3></summary>
 
-He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.
+He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.<br><br>
 
-At birth, his family were swept up into Hutt space and enslaved. Their life beforehand had been tough, being wracked with extreme poverty, constant hunger and being swept up in fighting for the barest of supplies.
+At birth, his family were swept up into Hutt space and enslaved. Their life beforehand had been tough, being wracked with extreme poverty, constant hunger and being swept up in fighting for the barest of supplies.<br><br>
 
-Under ownership, his family would be pressed into work for whomever had bid for him. Working gruelling hours but getting fed and shelter for their work. A "better life" which they taught to their child. So Vydgish would grow believing that being enslaved by those of higher status and power will share their prosperity with the slaves.
+Under ownership, his family would be pressed into work for whomever had bid for him. Working gruelling hours but getting fed and shelter for their work. A "better life" which they taught to their child. So Vydgish would grow believing that being enslaved by those of higher status and power will share their prosperity with the slaves.<br><br>
 
-He was allowed a basic education. Working bits and pieces from the moment he could. Growing up it wouldn't have been easy. With constant pain and suffering. But he pushed forward with anything he was given, with quiet acceptance of his roles. Eventually, time needed for technicians, he would take up the call in this role and began this long-term role.
+He was allowed a basic education. Working bits and pieces from the moment he could. Growing up it wouldn't have been easy. With constant pain and suffering. But he pushed forward with anything he was given, with quiet acceptance of his roles. Eventually, time needed for technicians, he would take up the call in this role and began this long-term role.<br><br>
 
-He would slowly gain expertise in his roles, gathering up steady knowledge over years upon years in the role. Though his passive personality made him stay in his role as a general techy.
+He would slowly gain expertise in his roles, gathering up steady knowledge over years upon years in the role. Though his passive personality made him stay in his role as a general techy.<br><br>
 
-He would eventually find himself working alongside a literal child. One who had clearly plenty to fear and was struggling to remain bold. He took her under his wing, keeping her safe from those around while teaching her the ways in the workshop.
+He would eventually find himself working alongside a literal child. One who had clearly plenty to fear and was struggling to remain bold. He took her under his wing, keeping her safe from those around while teaching her the ways in the workshop.<br><br>
 
-During slave uprisings, he would spend time keeping Zella distracted, 'knowing' full-well the result of such would only cause pain as they would be beaten down. He did try to teach his thoughts to Zella, though with his teachings being contradicted by [Niruhk](#niruhk-raokt), he would struggle to get through to her. With the lessons she took being of having pride with ones work, and "small groups have the ability to change much in the universe, so long as they work together".
+During slave uprisings, he would spend time keeping Zella distracted, 'knowing' full-well the result of such would only cause pain as they would be beaten down. He did try to teach his thoughts to Zella, though with his teachings being contradicted by <a href="https://simonasaert.github.io/ZellaBackground/People.html#niruhk-raokt">Niruhk</a>, he would struggle to get through to her. With the lessons she took being of having pride with ones work, and "small groups have the ability to change much in the universe, so long as they work together".<br><br>
 
 Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So would continue his position in Quesh.
 
@@ -225,20 +225,20 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > ### Mental Attributes<Niruhk>
 >
 >> **Personality**: Hopeful, caring<br>
-> **Occuption**: Slave mechanic<br>
+> **Occupation**: Slave mechanic<br>
 > **Law**: <br>
 
 <details>
 
 <summary><H3>History</H3></summary>
 
-Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.
+Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.<br><br>
 
-This agreement would last for a few years, but on his 20th year the vessel he's in would be boarded by pirates. The crew giving up Niruhk for their own lives, where he would be traded off quickly into slavery.
+This agreement would last for a few years, but on his 20th year the vessel he's in would be boarded by pirates. The crew giving up Niruhk for their own lives, where he would be traded off quickly into slavery.<br><br>
 
-He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incite the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.
+He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incite the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.<br><br>
 
-He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".
+He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".<br><br>
 
 He would still be there by the time Zella departed Quesh.
 
@@ -273,18 +273,18 @@ He would still be there by the time Zella departed Quesh.
 > ### Mental Attributes<Chu>
 >
 >> **Personality**: "Brutal Honesty", to-the-point, brutal, keeps life and work separate<br>
-> **Occuption**: Handler<br>
+> **Occupation**: Handler<br>
 > **Law**: Murder across several systems. Been reported to use torture<br>
 
 <details>
 
 <summary><H3>History</H3></summary>
 
-Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.
+Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.<br><br>
 
-For Zella, she found the Balosaur to have learned techniques beyond her original station. Clearly one who was willing to learn and service. Thus, Chu had Zella placed in the new team in [Gabboweth's Retreat](Locations#gabboweths-retreat) and had a close-eye kept on her. She would have Zella pushed towards work greater than her station, before the mistakes began. Chu was the one who demanded for the names, and she would deal with the perpetrators of such [shoddy work](index#leading-16-18 "backstory fragment"). As the repair team of Gabboweth's Retreat was under Chu's name, she demanded perfection and eventually saw perfection return to her team.
+For Zella, she found the Balosaur to have learned techniques beyond her original station. Clearly one who was willing to learn and service. Thus, Chu had Zella placed in the new team in [Gabboweth's Retreat](Locations#gabboweths-retreat) and had a close-eye kept on her. She would have Zella pushed towards work greater than her station, before the mistakes began. Chu was the one who demanded for the names, and she would deal with the perpetrators of such [shoddy work](index#leading-16-18 "backstory fragment"). As the repair team of Gabboweth's Retreat was under Chu's name, she demanded perfection and eventually saw perfection return to her team.<br><br>
 
-Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.
+Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.<br><br>
 
 When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first Mandalorian vessel was in the area.
 
@@ -319,24 +319,24 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > ### Mental Attributes<Borlic>
 >
 >> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandeur, boastful, good liar<br>
-> **Occuption**: Station boss<br>
+> **Occupation**: Station boss<br>
 > **Law**: Slavery, work-place abuse, environmental contamination<br>
 
 <details>
 
 <summary><H3>History</H3></summary>
 
-When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicality" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
+When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicality" or some such. Whatever power his family had allowed him to end up educated in business, specialising in extraction-based business.<br><br>
 
-In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.
+In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.<br><br>
 
-Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.
+Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.<br><br>
 
-Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.
+Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.<br><br>
 
-Zella was far from the first under-aged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.
+Zella was far from the first under-aged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.<br><br>
 
-When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.
+When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.<br><br>
 
 His curiosity would only be piqued when there was tale that a representative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
 
@@ -346,6 +346,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 
 
 
+<!---
 ---
 
 ## Minor Characters
@@ -354,7 +355,6 @@ His curiosity would only be piqued when there was tale that a representative of 
 | ---- | -------- | ---- | ------------ |
 | Weh  |  | - | - |
 
-<!---
 
 ## Template Person
 
@@ -385,7 +385,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 > ## Mental Attributes<Template>
 >
 >> **Personality**: <br>
-> **Occuption**: <br>
+> **Occupation**: <br>
 > **Law**: <br>
 
 ### History<Template>
