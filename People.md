@@ -42,7 +42,8 @@
 >> **Personality**: Optimistic, bright, always wanting to create, distrusting of large organisations<br>
 > **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
 
-### History<Mila>
+<details>
+<Summary>History<Mila></Summary>
 
 #### 17 BBY<Mila>
 
@@ -65,6 +66,7 @@ Here they settled down, having their child Zella within a year. Here too Mila re
 #### 18 ABY<Mila>
 
 As protection of the imperials fell away from the planet and pirates came in, the pair did try to keep their household safe. Offering their services free of charge, though this was an unsustainable way to keep afloat. Then the day of pirate greed came through, Mila tried to keep her daughter safe by locking her in a cupboard, only to be dragged out herself by the slavers.
+</details>
 
 ## Berhtram Del'Sarro
 
@@ -98,7 +100,8 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Occuption**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
 > **Law**: Arrested distributing drugs (8 BBY)
 
-### History<Berhtram>
+<details>
+<summary>History<Berhtram></summary>
 
 #### 19-12 BBY <Berhtram>
 
@@ -133,10 +136,11 @@ Zella was born on 8 ABY, 3 years into their move to [Pivrir's Respite](Locations
 #### 18 ABY <Berhtram>
 
 Though when the time came for piracy, he didn't handle the period of time well. While he and his shop offered services free, when the pirates started demanding tributary he got defensive. While he shared his logical belief that taking resources away from them will mean they wouldn't be able to service the pirate's vessels, the pirates didn't have any of it and laid punishment on him. When the time of the slavers came, it was seen that instead of taking him, they proportedly executed him as he struggled on the spot.
+</details>
 
 ## Vydgish Gozorc
 
-> ## Summary<Template>
+> ## Summary<Vydgish>
 >
 >> **Nickname**: <br>
 > **Age**: 67<br>
@@ -147,7 +151,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Current Whereabouts**: Quesh?<br>
 > **Relationship (Zella)**: Tutor<br>
 >
-> ## Physical Attributes<Template>
+> ## Physical Attributes<Vydgish>
 >
 >> **Height**: 6 ft<br>
 > **Weight**: 180 lbs<br>
@@ -160,13 +164,14 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Other Physical Features**: Walks with a constant limp, from an old broken bone<br>
 > **Clothing Style**: Ratty leathers, belts, pouches<br>
 >
-> ## Mental Attributes<Template>
+> ## Mental Attributes<Vydgish>
 >
 >> **Personality**: Accepted of his lot. Protective. Passive.<br>
 > **Occuption**: Slave mechanic<br>
 > **Law**: <br>
 
-### History<Vydgish>
+<details>
+<summary>History<Vydgish></summary>
 
 He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.
 
@@ -183,7 +188,7 @@ He would eventually find himself working alongside a literal child. One who had 
 During slave uprisings, he would spend time keeping Zella distracted, 'knowing' full-well the result of such would only cause pain as they would be beaten down. He did try to teach his thoughts to Zella, though with his teachings being contradicted by [Niruhk](#niruhk-raokt), he would struggle to get through to her. With the lessons she took being of having pride with ones work, and "small groups have the ability to change much in the universe, so long as they work together".
 
 Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So would continue his position in Quesh.
-
+</details>
 ## Niruhk Raokt
 
 > ## Summary<Niruhk>
@@ -216,7 +221,8 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Occuption**: Slave mechanic<br>
 > **Law**: <br>
 
-### History<Niruhk>
+<details>
+<summary>History<Niruhk></summary>
 
 Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.
 
@@ -227,6 +233,7 @@ He would be thrown into Quesh, joining the workforce as a repairer for the tools
 He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".
 
 He would still be there by the time Zella departed Quesh.
+</details>
 
 ## Chu Vitchess
 
@@ -260,7 +267,8 @@ He would still be there by the time Zella departed Quesh.
 > **Occuption**: Handler<br>
 > **Law**: Murder across several systems. Been reported to use torture<br>
 
-### History<Chu>
+<details>
+<summary>History<Chu></summary>
 
 Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.
 
@@ -269,6 +277,7 @@ For Zella, she found the Balosaur to have learned techniques beyond her original
 Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.
 
 When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first mandalorian vessel was in the area.
+</details>
 
 ## Borlic Snevzel
 
@@ -302,7 +311,8 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Occuption**: Station boss<br>
 > **Law**: Slavery, work-place abuse, environmental contamination<br>
 
-### History<Borlic>
+<details>
+<summary>History<Borlic></summary>
 
 When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicaity" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
 
@@ -317,6 +327,11 @@ Zella was far from the first underaged slave he had assigned to him. So he paid 
 When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.
 
 His curiosity would only be piqued when there was tale that a represenative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
+</details>
+
+## Zephyr Aldoros
+
+
 
 ---
 

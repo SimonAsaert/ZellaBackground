@@ -106,7 +106,7 @@ When they were in hyperspace, she made the shocked crew aware of her presence. S
 
 It was then that she would learn of their true intentions. The adolescent Hutt was attempting to circumvent the Twi'lek spice trade, to buy and sell spice himself without any middle-men. He was on his second journey as the first had been "such an incredible success, I had to pull a crew together to do this properly".
 
-Their destination was around the [Quelli sector](https://starwars.fandom.com/wiki/Quelli_sector "Wookiepedia"), and on arrival the ship was instantly pinged by an awaiting sting opperation. The pilot struggling to maneouver away, he would crash the ship on Dathomir under the belief that "No one would be crazy enough to follow us down here!"... Zella was the only survivor after having strapped herself to a structural part of the hull.
+Their destination was around the [Quelli sector](https://starwars.fandom.com/wiki/Quelli_sector "Wookiepedia"), and on arrival the ship was instantly pinged by an awaiting sting opperation. The pilot struggling to maneouver away and would crash the ship on Dathomir under the belief that "No one would be crazy enough to follow us down here..!" Zella was the only survivor after having strapped herself to a structural part of the hull.
 
 ### Summary
 
