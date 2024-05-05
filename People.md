@@ -43,7 +43,7 @@
 > **Occuption**: Artist/administrator of [B&M's Workshop](Locations#bms-workshop)<br>
 
 <details>
-<Summary>History<Mila></Summary>
+<summary>History</summary>
 
 #### 17 BBY<Mila>
 
@@ -101,7 +101,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Law**: Arrested distributing drugs (8 BBY)
 
 <details>
-<summary>History<Berhtram></summary>
+<summary>History</summary>
 
 #### 19-12 BBY <Berhtram>
 
@@ -171,7 +171,7 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Law**: <br>
 
 <details>
-<summary>History<Vydgish></summary>
+<summary>History</summary>
 
 He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.
 
@@ -222,7 +222,7 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Law**: <br>
 
 <details>
-<summary>History<Niruhk></summary>
+<summary>History</summary>
 
 Born in Devaronian society, he found the need to wander grow for him. He would quickly be married as a young-adult, before being swept away into exploration. He joined a trading vessel, working for the group as a general mechanic under the agreement that he'd get shore leave to explore the sights and be able to send wealth back home.
 
@@ -268,7 +268,7 @@ He would still be there by the time Zella departed Quesh.
 > **Law**: Murder across several systems. Been reported to use torture<br>
 
 <details>
-<summary>History<Chu></summary>
+<summary>History</summary>
 
 Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.
 
@@ -312,7 +312,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Law**: Slavery, work-place abuse, environmental contamination<br>
 
 <details>
-<summary>History<Borlic></summary>
+<summary>History</summary>
 
 When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicaity" or some such. Whatever power his family had allowed him to end up eucated in business, specialising in extraction-based business.
 
