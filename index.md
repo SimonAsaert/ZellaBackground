@@ -20,6 +20,8 @@
 | ---- | ------ | ---- |
 | [Pivrir's Respite](Locations#pivrirs-respite "Town") | Nevarro | Settlement |
 | [B&M's Workshop](Locations#bms-workshop "Workshop")  | Nevarro | Workshop   |
+| [SE-F4TE-Q5](Locations#se-f4te-q5 "Station") | Quesh | Extraction Space Station / Slave Hold |
+| [Gabboweth's Retreat](Locations#gabboweths-retreat "Station") | Balamak | Space Station |
 
 ## Backstory
 
@@ -37,11 +39,11 @@ Then for her, the world and life ended as she knew it. The day had gone like nor
 
 For the first week, she was stuck in the cage on the ship. The slavers flying around and remaining out of potential scanners and taking more secretive routes through known space. The vessel sneaking its way into Hutt Space. When they past the throes of battle, Zella could hear the pilot open up communications with someone. It would only be a few hours before the ship landed on a new planet, [Saki](https://starwars.fandom.com/wiki/Saki "Wookiepedia"). Here, those who were caught were forced out of the vessel and put into even more squallored conditions, temporary holding pens for the group. Zella remaining as close as she could to one of the village elders in the group. But after a few days, the slavers began to pull each person out one by one. Taking them to be shown and bid on by groups and individuals. Zella having to face the same, isolated from anyone that she knew, not asked a question but just bid upon before being pulled back off stage and given a placard with a colour.
 
-Eventually, her new [masters](People#borlic-snevzel) picked her up, along with a few other new slaves of which she recognised no one. And she was brought to her new permanent home, a station in orbit of [Quesh](https://starwars.fandom.com/wiki/Quesh "Wookiepedia").
+Eventually, her new [masters](People#borlic-snevzel) picked her up, along with a few other new slaves of which she recognised no one. And she was brought to her new permanent home, a [station](Locations#se-f4te-q5) in orbit of [Quesh](https://starwars.fandom.com/wiki/Quesh "Wookiepedia").
 
 ### Chemical Hatred (9)
 
-Now began the hardest part of her life so far. In orbit of Quesh, the expectation of the new group was for them to be trained in chemical extraction. They were far from the only group, coming to face dozens if not hundreds of others going through the same process as them. The tools given were incredibly cheap, stolen, broken, and usually of incompatible makes/models. These tools would be "loaned" to the slave, with the idea that they would earn their pay by extracting chemicals on the planet's surface. This would go to "pay for the debt" that the slavers had accrued buying them, but using the tools would slowly raise this debt too leading to individuals being stuck in this endless cycle of work.
+Now began the hardest part of her life so far. In orbit of Quesh, the expectation of the new group was for them to be trained in [chemical](https://starwars.fandom.com/wiki/Venenit_shadaaga "wookiepedia") extraction. They were far from the only group, coming to face dozens if not hundreds of others going through the same process as them. The tools given were incredibly cheap, stolen, broken, and usually of incompatible makes/models. These tools would be "loaned" to the slave, with the idea that they would earn their pay by extracting chemicals on the planet's surface. This would go to "pay for the debt" that the slavers had accrued buying them, but using the tools would slowly raise this debt too leading to individuals being stuck in this endless cycle of work.
 
 These tools were designed for larger adults, so when Zella was given them they gave no pity, instead telling her to "figure it out". Since she now was stuck with these tools, when she wasn't in the gruelling process of training, she had a little time to tinker and adapt what she had. Making use of impromptu tools, over a few days she managed to lighten some of the tools, and fix and adapt a few others to work nicer together. It wasn't easy work, especially for her, but by the time she was done there had been some notice from other slaves. Soon, when there was time and the slavers weren't around, she was helping to try and fix the tools of others in her cell, befriending a few of those stuck with her. With some of the other slaves taking small pity on the young girl being stuck there with them.
 

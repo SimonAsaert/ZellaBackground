@@ -6,6 +6,7 @@ This file is split up between the key systems that Zella has been in. Hopefully,
 
 - [Pivrir's Respite](#pivrirs-respite)
 - [B&M's Workshop](#bms-workshop)
+- [SE-F4TE-Q5](#se-f4te-q5)
 - [Gabboweth's Retreat](#gabboweths-retreat)
 
 ## Pivrir's Respite
@@ -50,7 +51,24 @@ The segment that reaches the ground and upwards is the workshop area, with enoug
 
 There's a door that leads to the residential part of the structure. While it's a cramped space, the rooms are covered with colour. Covered with tapestries, paintings, coloured pillows, art everywhere around the place. Featuring elements of life, wild joy, all the joyful emotions.
 
-The rooms are split up into a single bedroom, a kitchen-living area combo, a washroom and a small room that acts as office-space with documents housing the work done and plans for what work needs to be completed, as well as a studio for more art to be created.
+The rooms are split up into a single bedroom, a kitchen-living area combo, a wash-room and a small room that acts as office-space with documents housing the work done and plans for what work needs to be completed, as well as a studio for more art to be created.
+
+## SE-F4TE-Q5
+
+> ### Summary <Gabboweth>
+>
+> **Type**: Station<br>
+> **Location**: Quesh<br>
+> **Main Faction(s)**: Hutts<br>
+> **Purpose**: Chemical extraction and refinement, slave housing<br>
+
+### Brief Description <Gabboweth>
+
+A very out of date extraction station, this was built over a century ago at this point. The station was originally tasked with Xenoboric acid extraction around Gorse. The old station showing signs of this period of its life, with paint peeling of the structure, acid burns across the metallic hull. Most of the windows on this industrial station are caked with decades of grime and wear. A more modern hangar-bay has been retrofit onto the station, capable of handling the freighters that arrive and leave the station with less effort.
+
+The station has been moved to Quesh in the past few decades. Tasked to extract the Hutt-acid like substance on the surface. It houses a dozen shuttles that can land on the surface and are adapted to carry the acid aboard along with 5 workers, all which when docked, are parasitically attached to the station rather than landing in the hangar bays.
+
+The inside of the station is split into three main sections. From the Hangar-bay is the only clean part of the station. This is where the refined drug is stored and accessible. There's a few services situated here facing towards those who arrive, along with some residence for those staying for a few days. This is also where the station [boss](People#borlic-snevzel) and his minions can be found, communications, everything bureaucratic. The second segment is the extraction region. Here houses the raw chemicals waiting for refinement. Here also is where the slaves find accommodation and their services. The area has raised catwalks allowing those who manage the station to always have visibility of the slave's work and whereabouts. The final region is the refinery. A grizzly place filled with pipes, loose cables, and machines working their process endlessly. Here the maintenance workshop can be found with the team of technicians working the never-ending process of keeping the station alive and the tools working. The life-support system also exists in this region.
 
 ## Gabboweth's Retreat
 
@@ -67,6 +85,6 @@ A multi-level pleasure station turned supply depot for the Hutts. Gabboweth stoo
 
 Though the jewels and gold are dulled and unclean now, with a lot of the space within now taken over to house storage, crates, resources. There's triage centers setup where swimming pools once sat, there's temporary repair posts, the region of space outside and on the hangar docks usually has dozens of ships with various forms of damage upon their hull with crews attending to each vessel.
 
-There has been a communication station built across the bottom of the station too, allowing for FTL communication outside of the sector as well as receiving local signals as and when needed. Though the station itself is limited in defences, only with token defences as it would rely on the ships and crews docked for any defencive measures.
+There has been a communication station built across the bottom of the station too, allowing for FTL communication outside of the sector as well as receiving local signals as and when needed. Though the station itself is limited in defences, only with token defences as it would rely on the ships and crews docked for any defensive measures.
 
 When last seen by Zella, the main vessels situated around would have been Mandalorian, with a few of the other major factions. Though with the change in battle, things may have changed

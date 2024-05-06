@@ -199,7 +199,7 @@ When the assault on Gabboweth began, she was one of the higher-ups who were evac
 > **Race**: Candovantan<br>
 > **Home Planet**: Unknown<br>
 > **Residing Planet**: Quesh<br>
-> **Current Whereabouts**: Quesh station<br>
+> **Current Whereabouts**: [SE-F4TE-Q5](Locations#se-f4te-q5)<br>
 > **Relationship (Zella)**: Ex-owner<br>
 > **Last seen by Zella**: 11 years before adventure
 >
@@ -229,7 +229,7 @@ When Borlic speaks of his past, he speaks with clear pride. How he descends from
 
 In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.<br><br>
 
-Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.<br><br>
+Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a <a href="https://simonasaert.github.io/ZellaBackground/Locations#se-f4te-q5">medium-sized station</a> in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.<br><br>
 
 Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.<br><br>
 
@@ -395,7 +395,7 @@ Heliosati was pushed through several different positions and under half a dozen 
 
 But she'd eventually be placed as the organiser with Zella's team. Working on translating the technical plans Zella would create, and making it usable for the team there. And through the years, Zella and Heliosati would form a closer, friendly relationship. Forming a trust inside and outside of their work.<br><br>
 
-When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>.
+When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, Chu.
 
 </details>
 
