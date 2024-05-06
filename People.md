@@ -6,10 +6,11 @@
 | ---- | ------------ | ----------- |
 | [Mila Del'Sarro](#mila-delsarro) | Mother | Nevarro, ??? |
 | [Berhtram Del'Sarro](#berhtram-delsarro) | Father | Nevarro |
-| [Vydgish Gozorc](#vydgish-gozorc) | Tutor | Quesh |
-| [Niruhk Raokt](#niruhk-raokt) | Tutor | Quesh |
-| [Chu Vitchess](#chu-vitchess) | Handler | Around |
+| [Chu Vitchess](#chu-vitchess) | Handler | Hutt-Space, Unknown |
 | [Borlic Snevzel](#borlic-snevzel) | Minor-boss | Hutt-Space |
+| [Vydgish Gozorc](#vydgish-gozorc) | Tutor | Quesh |
+| [Niruhk Raokt](#niruhk-raokt) | Tutor, Co-worker | Hutt-Space, Devaronian? |
+| [Heliosati](#heliosati) | Co-worker, Friend | Hutt-Space |
 
 ## Mila Del'Sarro
 
@@ -248,7 +249,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 > **Age**: 67<br>
 > **Gender**: Male<br>
 > **Race**: Nikito<br>
-> **Home Planet**: Unknown <br>
+> **Home Planet**: Kintan<br>
 > **Residing Planet**: Quesh<br>
 > **Current Whereabouts**: Quesh?<br>
 > **Relationship (Zella)**: Tutor<br>
@@ -264,7 +265,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 > **Hair Style**: Bald<br>
 > **Eye Colour**: Amber<br>
 > **Facial Features**: Scars, wrinkles<br>
-> **Other Physical Features**: Walks with a constant limp, from an old broken bone<br>
+> **Other Physical Features**: Walks with a constant limp<br>
 > **Clothing Style**: Ratty leathers, belts, pouches<br>
 >
 > ### Mental Attributes<Vydgish>
@@ -277,7 +278,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 
 <summary><H3>History</H3></summary>
 
-He stands as a forever slaver. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.<br><br>
+He stands as a forever slave. Vydgish has known the life of a slave for as long as he's been alive, and is accepting of his lot.<br><br>
 
 At birth, his family were swept up into Hutt space and enslaved. Their life beforehand had been tough, being wracked with extreme poverty, constant hunger and being swept up in fighting for the barest of supplies.<br><br>
 
@@ -340,7 +341,7 @@ He would resent being enslaved, not being able to explore. However, he would sen
 
 A year after seeing Zella go, he would be transferred off station. A deal was created; he would work under a new owner in another repair division, one that would grant him the ability to see the stars. However, a threat loomed if he was caught trying to incite a fresh rebellion.<br><br>
 
-It would come to a surprise when he was not just working alongside Zella once more, but soon working under her. However, as promised he would not incite any sort of rebellion. This didn't stop his constant talks of returning to his family, of seeing his child again, and of that sought out freedom. He did speak out when [Zephyr](#zephyr-aldoros) seemingly disappeared one day, though when he found the truth he chose to bury that in himself for now.<br><br>
+It would come to a surprise when he was not just working alongside Zella once more, but soon working under her. However, as promised he would not incite any sort of rebellion. This didn't stop his constant talks of returning to his family, of seeing his child again, and of that sought out freedom. He did speak out when Zephyr seemingly disappeared one day, though when he found the truth he chose to bury that in himself for now.<br><br>
 
 When the time came that the team was transferred in a new direction, he'd thrive in this more mobile environment. Creating a journal where he wrote exaggerated stories of what happened with their time flying around Hutt space.<br><br>
 
@@ -397,8 +398,6 @@ But she'd eventually be placed as the organiser with Zella's team. Working on tr
 When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>.
 
 </details>
-
----
 
 ## Minor Characters
 
