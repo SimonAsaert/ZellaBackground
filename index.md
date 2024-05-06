@@ -4,10 +4,15 @@
 
 ### People
 
-| Name | Relationship |
-| ---- | --------------- |
-| [Mila Del'Sarro](People.md#mila-delsarro) | Mother |
-| [Berhtram Del'Sarro](People.md#Berhtram-delsarro) | Father |
+| Name | Relationship | Location(s) |
+| ---- | ------------ | ----------- |
+| [Mila Del'Sarro](People#mila-delsarro) | Mother | Nevarro, ??? |
+| [Berhtram Del'Sarro](People#berhtram-delsarro) | Father | Nevarro |
+| [Chu Vitchess](People#chu-vitchess) | Handler | Hutt-Space, Unknown |
+| [Borlic Snevzel](People#borlic-snevzel) | Minor-boss | Hutt-Space |
+| [Vydgish Gozorc](People#vydgish-gozorc) | Tutor | Quesh |
+| [Niruhk Raokt](People#niruhk-raokt) | Tutor, Co-worker | Hutt-Space, Devaronian? |
+| [Heliosati](People#heliosati) | Co-worker, Friend | Hutt-Space |
 
 ### Locations
 
@@ -15,12 +20,6 @@
 | ---- | ------ | ---- |
 | [Pivrir's Respite](Locations#pivrirs-respite "Town") | Nevarro | Settlement |
 | [B&M's Workshop](Locations#bms-workshop "Workshop")  | Nevarro | Workshop   |
-
-### Organization Links
-
-| Name | Link to summary |
-| ---- | --------------- |
-| N/A  | [return](https://simonasaert.github.io/ZellaBackground/ "Returns here") |
 
 ## Backstory
 
@@ -36,7 +35,7 @@ Though as she reached 7, these outings came to a halt. She found her father was 
 
 Then for her, the world and life ended as she knew it. The day had gone like normal, though the "mean men" weren't around. She had been helping dad with work around the workshop with fixing up a pit-droid. As dinnertime came, the family came together, when dad seemed to notice something outside one of the windows. He went to investigate, and a few minutes later mum told Zella to go hide. She did immediately, rushing to one of the cupboards and locking up. Only a minute later, a sound of a gunshot, followed soon by screams of mum that were drowned out by the sounds around. There were cries around the settlement that she couldn't focus on, there was more sounds of gunshots around. Eventually, the cupboard she was in was thrown open, and she too was dragged out. She saw her home had been torn up, the workshop in the process of being looted, smoke rising across the town, and soon she was thrown into shackles and into a cage within one of the ships. She was with company of maybe 3 or 4 others of the town, but she didn't see her mother or father...
 
-For the first week, she was stuck in the cage on the ship. The slavers flying around and remaining out of potential scanners and taking more secretive routes through known space. The vessel sneaking its way into Hutt Space. When they past the throes of battle, Zella could hear the pilot open up communications with someone. It would only be a few hours before the ship landed on a new planet, [Saki](https://starwars.fandom.com/wiki/Saki "Wookiepedia"). Here, those who were caught were forced out of the vessel and put into even more squallored conditions, temporary holding pens for the group. Zella remaining as close as she could to one of the village elders in the group. But after a few days, the slavers began to pull each person out one by one. Taking them to be shown and bidded on by groups and individuals. Zella having to face the same, isolated from anyone that she knew, not asked a question but just bid upon before being pulled back off stage and given a placard with a colour.
+For the first week, she was stuck in the cage on the ship. The slavers flying around and remaining out of potential scanners and taking more secretive routes through known space. The vessel sneaking its way into Hutt Space. When they past the throes of battle, Zella could hear the pilot open up communications with someone. It would only be a few hours before the ship landed on a new planet, [Saki](https://starwars.fandom.com/wiki/Saki "Wookiepedia"). Here, those who were caught were forced out of the vessel and put into even more squallored conditions, temporary holding pens for the group. Zella remaining as close as she could to one of the village elders in the group. But after a few days, the slavers began to pull each person out one by one. Taking them to be shown and bid on by groups and individuals. Zella having to face the same, isolated from anyone that she knew, not asked a question but just bid upon before being pulled back off stage and given a placard with a colour.
 
 Eventually, her new [masters](People#borlic-snevzel) picked her up, along with a few other new slaves of which she recognised no one. And she was brought to her new permanent home, a station in orbit of [Quesh](https://starwars.fandom.com/wiki/Quesh "Wookiepedia").
 
