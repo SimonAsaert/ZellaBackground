@@ -20,9 +20,9 @@
 > **Gender**: Female<br>
 > **Race**: Balosaur<br>
 > **Home Planet**: Balosaur<br>
-> **Residing Planet**: Nevarro<br>
 > **Current Whereabouts**: Unknown<br>
 > **Relationship (Zella)**: Mother<br>
+> **Last seen by Zella**: 19 years before adventure
 >
 > ### Physical Attributes<Mila>
 >
@@ -82,6 +82,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 > **Residing Planet**: Nevarro<br>
 > **Current Whereabouts**: Deceased (Nevarro)<br>
 > **Relationship (Zella)**: Father<br>
+> **Last seen by Zella**: 19 years before adventure
 >
 > ### Physical Attributes<Berhtram>
 >
@@ -100,7 +101,7 @@ As protection of the imperials fell away from the planet and pirates came in, th
 >
 >> **Personality**: Curious, hopeful but pessimistic, logical, focused<br>
 > **Occupation**: Chief mechanic of [B&M's Workshop](Locations#bms-workshop)<br>
-> **Law**: Arrested distributing drugs (8 BBY)
+> **Law**: Arrested distributing drugs (~8 BBY)
 
 <details>
 
@@ -142,6 +143,103 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 
 </details>
 
+## Chu Vitchess
+
+> ### Summary<Chu>
+>
+>> **Nickname**: <br>
+> **Age**: 34<br>
+> **Gender**: Female<br>
+> **Race**: Kel Dor<br>
+> **Home Planet**: Dorin<br>
+> **Current Whereabouts**: Unknown<br>
+> **Relationship (Zella)**: Handler<br>
+> **Last seen by Zella**: 8 months before adventure
+>
+> ### Physical Attributes<Chu>
+>
+>> **Height**: 5 ft 6<br>
+> **Weight**: Light<br>
+> **Build**: Slender, tall<br>
+> **Complexion**: Orangy skin<br>
+> **Hair Colour**: -<br>
+> **Hair Style**: -<br>
+> **Eye Colour**: Brown<br>
+> **Facial Features**: Always has rebreather<br>
+> **Clothing Style**: Robes. Weapons always visible.<br>
+>
+> ### Mental Attributes<Chu>
+>
+>> **Personality**: To-the-point, brutal, keeps life and work separate, zealous, focused<br>
+> **Occupation**: Handler<br>
+> **Law**: Murder in several systems. Torture<br>
+
+<details>
+
+<summary><H3>History</H3></summary>
+
+Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.<br><br>
+
+For Zella, she found the Balosaur to have learned techniques beyond her original station. Clearly one who was willing to learn and service. Thus, Chu had Zella placed in the new team in [Gabboweth's Retreat](Locations#gabboweths-retreat) and had a close-eye kept on her. She would have Zella pushed towards work greater than her station, before the mistakes began. Chu was the one who demanded for the names, and she would deal with the perpetrators of such [shoddy work](index#leading-16-18 "backstory fragment"). As the repair team of Gabboweth's Retreat was under Chu's name, she demanded perfection and eventually saw perfection return to her team.<br><br>
+
+Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.<br><br>
+
+When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first Mandalorian vessel was in the area.
+
+</details>
+
+## Borlic Snevzel
+
+> ### Summary<Borlic>
+>
+>> **Nickname**: <br>
+> **Age**: 42<br>
+> **Gender**: Male<br>
+> **Race**: Candovantan<br>
+> **Home Planet**: Unknown<br>
+> **Residing Planet**: Quesh<br>
+> **Current Whereabouts**: Quesh station<br>
+> **Relationship (Zella)**: Ex-owner<br>
+> **Last seen by Zella**: 11 years before adventure
+>
+> ### Physical Attributes<Borlic>
+>
+>> **Height**: 4 ft 7<br>
+> **Weight**: <br>
+> **Build**: Heavy-set<br>
+> **Complexion**: Pale brown<br>
+> **Hair Style**: Bald <br>
+> **Eye Colour**: Dark green with darker purple sclera<br>
+> **Facial Features**: <br>
+> **Other Physical Features**: <br>
+> **Clothing Style**: Fancy, with sequins and such. Any weapons are always covert as to not mess with the outfit.<br>
+>
+> ### Mental Attributes<Borlic>
+>
+>> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandeur, boastful, deceptive/manipulative<br>
+> **Occupation**: Station boss<br>
+> **Law**: Slavery, work-place abuse, environmental contamination<br>
+
+<details>
+
+<summary><H3>History</H3></summary>
+
+When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicality" or some such. Whatever power his family had allowed him to end up educated in business, specialising in extraction-based business.<br><br>
+
+In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.<br><br>
+
+Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.<br><br>
+
+Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.<br><br>
+
+Zella was far from the first under-aged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.<br><br>
+
+When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.<br><br>
+
+His curiosity would only be piqued when there was tale that a representative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
+
+</details>
+
 ## Vydgish Gozorc
 
 > ### Summary<Vydgish>
@@ -150,10 +248,11 @@ Though when the time came for piracy, he didn't handle the period of time well. 
 > **Age**: 67<br>
 > **Gender**: Male<br>
 > **Race**: Nikito<br>
-> **Home Planet**: - <br>
+> **Home Planet**: Unknown <br>
 > **Residing Planet**: Quesh<br>
 > **Current Whereabouts**: Quesh?<br>
 > **Relationship (Zella)**: Tutor<br>
+> **Last seen by Zella**: 11 years before adventure
 >
 > ### Physical Attributes<Vydgish>
 >
@@ -205,9 +304,10 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Gender**: Male<br>
 > **Race**: Devaronian<br>
 > **Home Planet**: Devaron<br>
-> **Residing Planet**: Quesh<br>
-> **Current Whereabouts**: Quesh<br>
-> **Relationship (Zella)**: Tutor<br>
+> **Residing Planet**: - <br>
+> **Current Whereabouts**: Potentially Devaronian<br>
+> **Relationship (Zella)**: Tutor, co-slave<br>
+> **Last seen by Zella**: 6 months before adventure
 >
 > ### Physical Attributes<Niruhk>
 >
@@ -215,16 +315,14 @@ Eventually, Vydgish would stop seeing Zella, as she was traded out elsewhere. So
 > **Weight**: 220lbs<br>
 > **Build**: Slender<br>
 > **Complexion**: Light Red<br>
-> **Hair Colour**: <br>
-> **Hair Style**: <br>
 > **Eye Colour**: Green<br>
 > **Facial Features**: <br>
-> **Other Physical Features**: Twin-Horn stubs, snapped<br>
+> **Other Physical Features**: Twin-Horn stubs, sawn down<br>
 > **Clothing Style**: Tattered shirt, worn blazer, ratty brown trousers<br>
 >
 > ### Mental Attributes<Niruhk>
 >
->> **Personality**: Hopeful, caring<br>
+>> **Personality**: Hopeful, caring, prideful, stubborn<br>
 > **Occupation**: Slave mechanic<br>
 > **Law**: <br>
 
@@ -236,125 +334,80 @@ Born in Devaronian society, he found the need to wander grow for him. He would q
 
 This agreement would last for a few years, but on his 20th year the vessel he's in would be boarded by pirates. The crew giving up Niruhk for their own lives, where he would be traded off quickly into slavery.<br><br>
 
-He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incite the slave riots, but with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.<br><br>
+He would be thrown into Quesh, joining the workforce as a repairer for the tools there. Survival was rough, but he'd meet Zella within months of joining. He would keep Zella's hope up for freedom, with the belief that they were once free so such could rise again. Unlike Vydgish, he would be one who'd try and incite the slave riots of the station. But with the resistance being as severe as it was he would struggle to raise a hand against his masters again. On the first revolt, his horns were sawn off as punishment.<br><br>
 
 He would resent being enslaved, not being able to explore. However, he would send excess from his attempt to work of debt back to his family. Sharing any news and pictures he got with those who he grew close to, telling stories of "Once I am out of here, I will be a proud father, I will have my family strong and healthy".<br><br>
 
-He would still be there by the time Zella departed Quesh.
+A year after seeing Zella go, he would be transferred off station. A deal was created; he would work under a new owner in another repair division, one that would grant him the ability to see the stars. However, a threat loomed if he was caught trying to incite a fresh rebellion.<br><br>
+
+It would come to a surprise when he was not just working alongside Zella once more, but soon working under her. However, as promised he would not incite any sort of rebellion. This didn't stop his constant talks of returning to his family, of seeing his child again, and of that sought out freedom. He did speak out when [Zephyr](#zephyr-aldoros) seemingly disappeared one day, though when he found the truth he chose to bury that in himself for now.<br><br>
+
+When the time came that the team was transferred in a new direction, he'd thrive in this more mobile environment. Creating a journal where he wrote exaggerated stories of what happened with their time flying around Hutt space.<br><br>
+
+He was with Zella when the Mandalorians came. He never shared how he knew, but he seemed to have some pre-knowledge that they would come so he made sure himself and Zella hid away to be liberated. And once his interrogation period ended, he kept to his word and took to space to return to his wife and child.
 
 </details>
 
-## Chu Vitchess
+## Heliosati
 
-> ### Summary<Chu>
+> ## Summary<Heliosati>
 >
 >> **Nickname**: <br>
-> **Age**: 34<br>
+> **Age**: 30<br>
 > **Gender**: Female<br>
-> **Race**: Kel Dor<br>
-> **Home Planet**: Dorin<br>
-> **Residing Planet**: ???<br>
-> **Current Whereabouts**: ???<br>
-> **Relationship (Zella)**: Handler<br>
+> **Race**: Twi'lek<br>
+> **Home Planet**: Ryloth<br>
+> **Current Whereabouts**: Hutt Space<br>
+> **Relationship (Zella)**: Co-Slave<br>
+> **Last seen by Zella**: 6 months before adventure
 >
-> ### Physical Attributes<Chu>
+> ## Physical Attributes<Heliosati>
 >
->> **Height**: 5 ft 6<br>
-> **Weight**: Light<br>
-> **Build**: Slender, tall<br>
-> **Complexion**: Orangy skin<br>
-> **Hair Colour**: -<br>
-> **Hair Style**: -<br>
-> **Eye Colour**: Brown<br>
-> **Facial Features**: Always has rebreather<br>
-> **Other Physical Features**: <br>
-> **Clothing Style**: Robes. Weapons always visible.<br>
+>> **Height**: 6 ft 10<br>
+> **Weight**: 200lbs<br>
+> **Build**: Lithe<br>
+> **Complexion**: Pale Orange<br>
+> **Eye Colour**: Bright Green<br>
+> **Clothing Style**: While worn, always kept repaired and maintained. Colours sewn into the outfit<br>
 >
-> ### Mental Attributes<Chu>
+> ## Mental Attributes<Heliosati>
 >
->> **Personality**: "Brutal Honesty", to-the-point, brutal, keeps life and work separate<br>
-> **Occupation**: Handler<br>
-> **Law**: Murder across several systems. Been reported to use torture<br>
+>> **Personality**: <br>
+> **Occupation**: Team-manager<br>
+> **Law**: <br>
 
 <details>
 
 <summary><H3>History</H3></summary>
 
-Before meeting Zella, there would be little known of her background. What is known is her long-standing employment under Beldorian. It isn't known if they talked to each other directly, but Chu has been known to keep those of medium value in line, and keep information flowing as-and-when is needed. To the point of hiring informer to snitch on each other and keep general paranoia in her work.<br><br>
+Heliosati came from a family that had been working with the rebels on Ryloth. They had worked in the intelligence system, moving information when needed, working translations, procuring and processing plans.<br><br>
 
-For Zella, she found the Balosaur to have learned techniques beyond her original station. Clearly one who was willing to learn and service. Thus, Chu had Zella placed in the new team in [Gabboweth's Retreat](Locations#gabboweths-retreat) and had a close-eye kept on her. She would have Zella pushed towards work greater than her station, before the mistakes began. Chu was the one who demanded for the names, and she would deal with the perpetrators of such [shoddy work](index#leading-16-18 "backstory fragment"). As the repair team of Gabboweth's Retreat was under Chu's name, she demanded perfection and eventually saw perfection return to her team.<br><br>
+Heliosati was born just a little after Ryloth had been freed. Her family having carved their own home in the struggling planet, they wanted something better for their child. They taught her what they knew as she grew under their wing, while sharing stories that admittedly were tamer than reality, or outright fabrications.<br><br>
 
-Chu would be the one who had Zella promoted to a team-lead position, as Chu's own position was rising in the ranks with her own efficiencies and the success of her teams. She would remain zealously devout to working for Beldorion, but never sharing why.<br><br>
+With the regrowth of the local area, the family found it tough to settle down beyond the resistance. With some family members choosing to get up and leave the planet for their own adventures and spreading across the galaxy.<br><br>
 
-When the assault on Gabboweth began, she was one of the higher-ups who were evacuated. Her shuttle with many others disappearing before the first Mandalorian vessel was in the area.
+When Heliosati was old enough, she and her direct family left the planet in search of something new. Up to this point, she had been fairly educated. Her natural talent falling in directing and organising people, communication overall rather than direct interference. Though their adventures ended as quick as they began. The ship they joined wasn't actually bound to wild-space as promised, instead entrepreneurial individuals were taking advantage of post-resistance planets. Finding those wanting to "escape monotony" and "return to something greater than themselves", offering to take them off on an adventure only to sell the off in Hutt Space.<br><br>
 
-</details>
+Her family, being ex-resistance members, did put up a fight. But they found themselves in places more desolate with hopeless folk around. So any attempt to rile up a resistance faltered almost immediately. Especially when the family were forcibly split apart.<br><br>
 
-## Borlic Snevzel
+Heliosati was pushed through several different positions and under half a dozen owners before Beldorian. Here, a position was found for her in organising more complex teams. This more bureaucratic had her working closely under <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>, being made to dispense orders from her. But also being forced to see the more sadistic side of her owner. She wears several scars under her outfits due to this.<br><br>
 
-> ### Summary<Borlic>
->
->> **Nickname**: <br>
-> **Age**: 42<br>
-> **Gender**: Male<br>
-> **Race**: Candovantan<br>
-> **Home Planet**: ???<br>
-> **Residing Planet**: Quesh<br>
-> **Current Whereabouts**: Quesh station<br>
-> **Relationship (Zella)**: Ex-owner<br>
->
-> ### Physical Attributes<Borlic>
->
->> **Height**: 4 ft 7<br>
-> **Weight**: <br>
-> **Build**: Heavy-set<br>
-> **Complexion**: Pale brown<br>
-> **Hair Colour**: - <br>
-> **Hair Style**: Bald <br>
-> **Eye Colour**: Dark green with darker purple sclera<br>
-> **Facial Features**: <br>
-> **Other Physical Features**: <br>
-> **Clothing Style**: Fancy, with sequins and such. Any weapons are always covert as to not mess with the outfit.<br>
->
-> ### Mental Attributes<Borlic>
->
->> **Personality**: A weasle, sticker for technicalities, greedy, aspirations for grandeur, boastful, good liar<br>
-> **Occupation**: Station boss<br>
-> **Law**: Slavery, work-place abuse, environmental contamination<br>
+But she'd eventually be placed as the organiser with Zella's team. Working on translating the technical plans Zella would create, and making it usable for the team there. And through the years, Zella and Heliosati would form a closer, friendly relationship. Forming a trust inside and outside of their work.<br><br>
 
-<details>
-
-<summary><H3>History</H3></summary>
-
-When Borlic speaks of his past, he speaks with clear pride. How he descends from "great leaders" of the past who are no longer in power "due to a technicality" or some such. Whatever power his family had allowed him to end up educated in business, specialising in extraction-based business.<br><br>
-
-In this time, his boastful nature would leave him surrounded by a small group of sycophants, all believing he'd help them rise the ranks in his Hutt society. They, however, were stepping-stones for Borlic to grow in the society, being used for the dirty work and rewarded pennies for their labour.<br><br>
-
-Through back-deals, using what tenuous connections his family had, and the group he had gathered under him, he would be able to take over a medium-sized station in Quesh. Said station had already been working for a few decades at this point and was ready to be scrapped. He instead replaced the bare-minimum needed to keep the station working to profit as much as he could from his investment. Extracting the Hutt-Venom like chemicals from the surface, and having a disregard of the rotating slave force under him. Any work-place deaths he would push the blame off anywhere it could be, especially on those who were injured and died.<br><br>
-
-Under his watch, there would be several attempts of slave uprisings. Each time, he would deal with them by locking himself away and sending military forces forth to "persuade" his workers to return. Any who were felled in such actions would be given a navy burial before Borlic would order new slaves to replace them.<br><br>
-
-Zella was far from the first under-aged slave he had assigned to him. So he paid no mind to the small Balosaur joining his extraction crew. Instead, laying on the debt that each of his "new workers" owed, and he would keep them to it.<br><br>
-
-When the point that there was a worker that was modifying some of the tools came about, he would personally give a visit with his top crew. After conversing with his chief engineer, he would move the Balosaur from extraction to maintenance, before loosing focus on her again. Just keeping tabs of the output of the workforce once more as he steadily piled on his gains.<br><br>
-
-His curiosity would only be piqued when there was tale that a representative of Beldorian the Hutt was arriving. While this wasn't unusual with him giving personal tours of the "good sights" in the station to those travelling here, the purpose given was. An offer to buy out one of the slaves from under him. He would negotiate a tidy profit from her, with his greed it wouldn't be hard to see him burning favours to do so, before letting her go.
+When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>.
 
 </details>
 
-## Zephyr Aldoros
-
-
-
-<!---
 ---
 
 ## Minor Characters
 
-| Name | Location | Race | Relationship |
-| ---- | -------- | ---- | ------------ |
-| Weh  |  | - | - |
+| Name | Location | Race | Relationship | Other Aspects |
+| ---- | -------- | ---- | ------------ | ------------- |
+| P1T5-I\[1, 2, 4, 6, 7\] | [Gabboweth's Retreat](Locations#gabboweths-retreat) | Class V Droid - Pit Droid | Worker | Built with extendable stilts to allow reaching higher sections. Has access to various attachments for arm/hand replacements <br> Has hyperfixation tendencies <br> There are 5 of them, but they share the same personality core. They also sync up memories often, making distinguishing them difficult |
+| Zephyr Aldaros | ??? | Human | Co-worker | One of the first to be "let go" by the names given to [Chu](#chu-vitchess) by Zella |
 
+<!---
 
 ## Template Person
 
@@ -365,9 +418,9 @@ His curiosity would only be piqued when there was tale that a representative of 
 > **Gender**: <br>
 > **Race**: <br>
 > **Home Planet**: <br>
-> **Residing Planet**: <br>
 > **Current Whereabouts**: <br>
 > **Relationship (Zella)**: <br>
+> **Last seen by Zella**:
 >
 > ## Physical Attributes<Template>
 >
@@ -388,5 +441,9 @@ His curiosity would only be piqued when there was tale that a representative of 
 > **Occupation**: <br>
 > **Law**: <br>
 
-### History<Template>
+<details>
+
+<summary><H3>History</H3></summary>
+
+</details>
 --->
