@@ -395,7 +395,7 @@ Heliosati was pushed through several different positions and under half a dozen 
 
 But she'd eventually be placed as the organiser with Zella's team. Working on translating the technical plans Zella would create, and making it usable for the team there. And through the years, Zella and Heliosati would form a closer, friendly relationship. Forming a trust inside and outside of their work.<br><br>
 
-When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, Chu.
+When the Mandalorian siege began on <a href="https://simonasaert.github.io/ZellaBackground/Locations.html#gabboweths-retreat">Gabboweth's Retreat</a>, Heliosati had no pre-knowledge of this bar the evacuation of <a href="https://simonasaert.github.io/ZellaBackground/People.html#chu-vitchess">Chu</a>. She had hidden herself away as best as she could. She would try and join the Mandalorians after the interrogations ended, wishing to assist in the removal of the slavers and cruel individuals in Hutt space. Specifically trying to find her longest master, Chu.
 
 </details>
 
