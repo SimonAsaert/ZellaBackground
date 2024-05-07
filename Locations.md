@@ -55,14 +55,14 @@ The rooms are split up into a single bedroom, a kitchen-living area combo, a was
 
 ## SE-F4TE-Q5
 
-> ### Summary <Gabboweth>
+> ### Summary <SE>
 >
 > **Type**: Station<br>
 > **Location**: Quesh<br>
 > **Main Faction(s)**: Hutts<br>
 > **Purpose**: Chemical extraction and refinement, slave housing<br>
 
-### Brief Description <Gabboweth>
+### Brief Description <SE>
 
 A very out of date extraction station, this was built over a century ago at this point. The station was originally tasked with Xenoboric acid extraction around Gorse. The old station showing signs of this period of its life, with paint peeling of the structure, acid burns across the metallic hull. Most of the windows on this industrial station are caked with decades of grime and wear. A more modern hangar-bay has been retrofit onto the station, capable of handling the freighters that arrive and leave the station with less effort.
 
