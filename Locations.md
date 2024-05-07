@@ -24,7 +24,7 @@ A small colonial settlement settled far North East from [Nevarro City](https://s
 
 The small settlement only has a few dozen structures, with housing, a cantina, storehouse, mechanic and a place for ships to land and trade. Every structure has been built elevated from the terrain, standing on narrow Ferrocrete pillars. Some structures with a section that does touch the ground for easier access but most have more temporary means of entering. From a rope-ladder that's freed by using a hook, to temporary stairs for those who had the resources and/or technical know-how. With the structures being seen to spill out over some of the river-flows.
 
-<sub>*Architecture Inspiration: [1](https://cdn.thespaces.com/wp-content/uploads/2018/10/Paris-property-utopie-marc-held-gif-yvette.jpg), [2](http://news.bbc.co.uk/nol/shared/spl/hi/pop_ups/06/africa_enl_1146054429/img/1.jpg), [3](https://www.houspect.com.au/nt/wp-content/uploads/sites/5/2015/08/bigstock-Fishing-Village-With-Wooden-Ho-389032831.jpg)*</sub>
+<sub>*Architecture Inspiration: \[[1](https://cdn.thespaces.com/wp-content/uploads/2018/10/Paris-property-utopie-marc-held-gif-yvette.jpg)\], \[[2](http://news.bbc.co.uk/nol/shared/spl/hi/pop_ups/06/africa_enl_1146054429/img/1.jpg)\], \[[3](https://www.houspect.com.au/nt/wp-content/uploads/sites/5/2015/08/bigstock-Fishing-Village-With-Wooden-Ho-389032831.jpg)\]*</sub>
 
 ### Rough History <Pivrir>
 
@@ -69,6 +69,10 @@ A very out of date extraction station, this was built over a century ago at this
 The station has been moved to Quesh in the past few decades. Tasked to extract the Hutt-acid like substance on the surface. It houses a dozen shuttles that can land on the surface and are adapted to carry the acid aboard along with 5 workers, all which when docked, are parasitically attached to the station rather than landing in the hangar bays.
 
 The inside of the station is split into three main sections. From the Hangar-bay is the only clean part of the station. This is where the refined drug is stored and accessible. There's a few services situated here facing towards those who arrive, along with some residence for those staying for a few days. This is also where the station [boss](People#borlic-snevzel) and his minions can be found, communications, everything bureaucratic. The second segment is the extraction region. Here houses the raw chemicals waiting for refinement. Here also is where the slaves find accommodation and their services. The area has raised catwalks allowing those who manage the station to always have visibility of the slave's work and whereabouts. The final region is the refinery. A grizzly place filled with pipes, loose cables, and machines working their process endlessly. Here the maintenance workshop can be found with the team of technicians working the never-ending process of keeping the station alive and the tools working. The life-support system also exists in this region.
+
+The naming of the station is in a standardised form, being **S**tation **E**xtraction-**ID**-**Location** **Station Number**.
+
+<sub>*Architecture Inspiration: \[[1](https://steamuserimages-a.akamaihd.net/ugc/2260308180558357619/379473AE223EE28ED6A93D05E7115333F2E6FA11/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)\]</sub>
 
 ## Gabboweth's Retreat
 
