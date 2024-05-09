@@ -373,7 +373,7 @@ He was with Zella when the Mandalorians came. He never shared how he knew, but h
 >
 > ## Mental Attributes<Heliosati>
 >
->> **Personality**: <br>
+>> **Personality**: Fiery, Manipulative, adopted emotion from Guerrilla stuff<br>
 > **Occupation**: Team-manager<br>
 > **Law**: <br>
 
