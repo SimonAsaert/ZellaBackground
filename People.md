@@ -248,7 +248,7 @@ His curiosity would only be piqued when there was tale that a representative of 
 >> **Nickname**: <br>
 > **Age**: 67<br>
 > **Gender**: Male<br>
-> **Race**: Nikito<br>
+> **Race**: Green Nikto (Kadas'sa'Nikto)<br>
 > **Home Planet**: Kintan<br>
 > **Residing Planet**: Quesh<br>
 > **Current Whereabouts**: Quesh?<br>
